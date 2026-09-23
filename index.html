@@ -2,245 +2,211 @@
 <html lang="es">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Asistente Educación Continua — Javeriana</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Asistente Educación Continua · Javeriana</title>
+<link rel="icon" type="image/png" href="/logo.png">
 <style>
   :root{
-    --bg:#f7f5f2; --panel:#ffffff; --ink:#1f1b1a; --ink-soft:#5b5450;
-    --brand:#7a1f2b; --brand-dark:#5c151f; --brand-soft:#fbe9ea;
-    --border:#e7e1db; --bubble-bot:#ffffff; --bubble-user:#7a1f2b; --bubble-user-ink:#ffffff;
-    --radius:16px;
+    --azul:#285498; --azul-oscuro:#1b3a6e; --amarillo:#f4c800; --amarillo-suave:#fff6cc;
+    --bg:#f4f6fa; --panel:#ffffff; --ink:#1c2433; --ink-soft:#5a6475; --border:#dde3ec;
+    --bot:#ffffff; --user:#285498; --user-ink:#ffffff; --link:#285498;
   }
   @media (prefers-color-scheme: dark){
     :root{
-      --bg:#161211; --panel:#211c1a; --ink:#f2ece7; --ink-soft:#bfb5ae;
-      --brand:#e0808c; --brand-dark:#e0808c; --brand-soft:#3a2226;
-      --border:#3a322e; --bubble-bot:#2a2422; --bubble-user:#7a1f2b; --bubble-user-ink:#ffffff;
+      --bg:#0f1624; --panel:#172136; --ink:#eef2f8; --ink-soft:#a9b4c6; --border:#2a3753;
+      --bot:#1d2940; --user:#3a6bc0; --link:#8fb3f0; --amarillo-suave:#3a3310;
     }
   }
-  *{box-sizing:border-box;}
-  body{margin:0; background:var(--bg); color:var(--ink); font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
-  .wrap{max-width:720px; margin:0 auto; padding:20px 16px 40px;}
-  .card{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); overflow:hidden; box-shadow:0 1px 3px rgba(0,0,0,.06);}
-  header.top{background:linear-gradient(135deg,var(--brand),var(--brand-dark)); color:#fff; padding:18px 20px;}
-  header.top h1{font-size:16px; margin:0; font-weight:700; letter-spacing:.2px;}
-  header.top p{margin:2px 0 0; font-size:12.5px; opacity:.9;}
-  .chat{height:min(62vh,560px); overflow-y:auto; padding:18px; display:flex; flex-direction:column; gap:10px; background:var(--bg);}
-  .row{display:flex;}
-  .row.bot{justify-content:flex-start;}
-  .row.user{justify-content:flex-end;}
-  .bubble{max-width:82%; padding:10px 13px; border-radius:14px; font-size:14.5px; line-height:1.5; white-space:pre-wrap; word-wrap:break-word;}
-  .row.bot .bubble{background:var(--bubble-bot); border:1px solid var(--border); border-bottom-left-radius:4px;}
-  .row.user .bubble{background:var(--bubble-user); color:var(--bubble-user-ink); border-bottom-right-radius:4px;}
-  .bubble a{color:inherit; text-decoration:underline;}
-  .row.bot .bubble a{color:var(--brand);}
-  .typing{display:inline-flex; gap:4px; padding:4px 2px;}
-  .typing span{width:6px;height:6px;border-radius:50%;background:var(--ink-soft);opacity:.5;animation:blink 1.2s infinite;}
-  .typing span:nth-child(2){animation-delay:.2s;} .typing span:nth-child(3){animation-delay:.4s;}
-  @keyframes blink{0%,80%,100%{opacity:.3;transform:scale(.8);}40%{opacity:1;transform:scale(1);}}
-  form.inputbar{display:flex; gap:8px; padding:12px; border-top:1px solid var(--border); background:var(--panel);}
-  form.inputbar textarea{flex:1; resize:none; border:1px solid var(--border); border-radius:12px; padding:10px 12px; font-size:14.5px; font-family:inherit; background:var(--bg); color:var(--ink); max-height:120px;}
-  form.inputbar textarea:focus{outline:2px solid var(--brand); outline-offset:1px;}
-  form.inputbar button{background:var(--brand); color:#fff; border:none; border-radius:12px; padding:0 18px; font-size:14px; font-weight:600; cursor:pointer;}
-  form.inputbar button:disabled{opacity:.5; cursor:default;}
-  .footer-note{padding:10px 18px 16px; font-size:11.5px; color:var(--ink-soft); text-align:center;}
-  .banner{margin:0 0 14px; font-size:12.5px; color:var(--ink-soft); text-align:center;}
+  *{box-sizing:border-box}
+  html,body{margin:0;height:100%}
+  body{background:var(--bg);color:var(--ink);font-family:"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:15px}
+  .app{max-width:760px;height:100%;margin:0 auto;display:flex;flex-direction:column;background:var(--panel);box-shadow:0 0 0 1px var(--border)}
+  header{background:linear-gradient(135deg,var(--azul-oscuro),var(--azul));color:#fff;padding:14px 18px;display:flex;align-items:center;gap:14px;border-bottom:4px solid var(--amarillo)}
+  header .logo{width:56px;height:56px;border-radius:50%;background:#fff;flex:none;display:flex;align-items:center;justify-content:center;overflow:hidden}
+  header .logo img{width:100%;height:100%;object-fit:cover}
+  header h1{margin:0;font-size:17px;font-weight:700;letter-spacing:.2px}
+  header p{margin:2px 0 0;font-size:12.5px;opacity:.9}
+  .chat{flex:1;overflow-y:auto;padding:18px 14px;display:flex;flex-direction:column;gap:12px;background:var(--bg)}
+  .row{display:flex;gap:8px;align-items:flex-end}
+  .row.user{justify-content:flex-end}
+  .avatar{width:30px;height:30px;border-radius:50%;background:#fff;border:1px solid var(--border);flex:none;overflow:hidden}
+  .avatar img{width:100%;height:100%;object-fit:cover}
+  .bubble{max-width:82%;padding:11px 14px;border-radius:16px;line-height:1.55;word-wrap:break-word}
+  .row.bot .bubble{background:var(--bot);border:1px solid var(--border);border-left:3px solid var(--amarillo);border-bottom-left-radius:4px}
+  .row.user .bubble{background:var(--user);color:var(--user-ink);border-bottom-right-radius:4px}
+  .bubble a{color:var(--link);font-weight:600;word-break:break-all}
+  .row.user .bubble a{color:#fff}
+  .typing{display:inline-flex;gap:4px;padding:4px 2px}
+  .typing span{width:7px;height:7px;border-radius:50%;background:var(--azul);opacity:.4;animation:b 1.2s infinite}
+  .typing span:nth-child(2){animation-delay:.2s}.typing span:nth-child(3){animation-delay:.4s}
+  @keyframes b{0%,80%,100%{opacity:.25;transform:scale(.8)}40%{opacity:1;transform:scale(1)}}
+  .quick{display:flex;gap:8px;padding:0 14px 10px;background:var(--bg)}
+  .quick[hidden]{display:none}
+  .quick button{flex:1;max-width:200px;border:2px solid var(--azul);background:var(--panel);color:var(--azul);border-radius:999px;padding:9px 14px;font-weight:700;font-size:14px;cursor:pointer}
+  .quick button.si{background:var(--amarillo);border-color:var(--amarillo);color:var(--azul-oscuro)}
+  .quick button:hover{filter:brightness(.96)}
+  .datos{display:flex;flex-direction:column;gap:10px;margin-top:10px}
+  .row.bot .bubble.conform{max-width:92%;width:420px}
+  .datos label{font-size:13px;font-weight:600;color:var(--ink-soft);display:flex;flex-direction:column;gap:4px}
+  .datos input,.datos select{font:inherit;font-weight:400;padding:9px 11px;border:1px solid var(--border);border-radius:10px;background:var(--bg);color:var(--ink);width:100%}
+  .datos input:focus,.datos select:focus{outline:2px solid var(--azul);outline-offset:1px}
+  .datos .fila{display:grid;grid-template-columns:1fr 1.4fr;gap:10px}
+  .datos .err{color:#c0392b;font-size:12px;font-weight:500;min-height:0}
+  .datos .inval{border-color:#c0392b}
+  .datos button{margin-top:4px;background:var(--amarillo);color:var(--azul-oscuro);border:none;border-radius:999px;padding:11px;font-weight:700;font-size:14.5px;cursor:pointer}
+  @media (prefers-color-scheme: dark){.datos .err{color:#ff8a7a}}
+  @media (max-width:420px){.datos .fila{grid-template-columns:1fr}}
+  form{display:flex;gap:8px;padding:12px;border-top:1px solid var(--border);background:var(--panel)}
+  textarea{flex:1;resize:none;border:1px solid var(--border);border-radius:12px;padding:10px 12px;font:inherit;background:var(--bg);color:var(--ink);max-height:130px}
+  textarea:focus{outline:2px solid var(--azul);outline-offset:1px}
+  form button{background:var(--azul);color:#fff;border:none;border-radius:12px;padding:0 20px;font-weight:700;cursor:pointer}
+  form button:disabled,textarea:disabled{opacity:.55;cursor:default}
+  .pie{font-size:11.5px;color:var(--ink-soft);text-align:center;padding:0 14px 10px;background:var(--panel)}
+  .pie a{color:var(--ink-soft)}
+  @media (prefers-color-scheme: dark){.quick button{border-color:var(--link);color:var(--link)}}
+  @media (max-width:520px){header .logo{width:46px;height:46px}.bubble{max-width:88%}}
 </style>
 </head>
 <body>
-
-<div class="wrap">
-  <div class="banner">Asistente de orientación · Educación Continua PUJ</div>
-  <div class="card">
-    <header class="top">
-      <h1>Educación Continua — Asistente virtual</h1>
-      <p>Pontificia Universidad Javeriana</p>
-    </header>
-    <div id="chat" class="chat"></div>
-    <form id="inputbar" class="inputbar">
-      <textarea id="input" rows="1" placeholder="Escribe tu respuesta..." autocomplete="off"></textarea>
-      <button id="send" type="submit">Enviar</button>
-    </form>
+<div class="app">
+  <header>
+    <div class="logo"><img src="/logo.png" alt="Educación Continua"></div>
+    <div>
+      <h1>Asistente de Educación Continua</h1>
+      <p>Pontificia Universidad Javeriana · Orientación personalizada</p>
+    </div>
+  </header>
+  <div id="chat" class="chat" aria-live="polite"></div>
+  <div id="quick" class="quick" hidden>
+    <button type="button" class="si" data-v="SÍ">SÍ, autorizo</button>
+    <button type="button" data-v="NO">NO autorizo</button>
   </div>
-  <div class="footer-note" id="footnote">Conversación orientativa para sugerirte programas de Educación Continua.</div>
+  <form id="form">
+    <textarea id="input" rows="1" placeholder="Escribe tu respuesta..." aria-label="Mensaje"></textarea>
+    <button id="send" type="submit">Enviar</button>
+  </form>
+  <div class="pie"><span id="oferta"></span>Conversación orientativa · <a href="https://www.javeriana.edu.co/informacion/politica-y-tratamiento-de-datos-personales" target="_blank" rel="noopener">Política de datos personales</a></div>
 </div>
 
 <script>
 (function(){
   "use strict";
+  var chat = document.getElementById("chat"), form = document.getElementById("form"),
+      input = document.getElementById("input"), send = document.getElementById("send"),
+      quick = document.getElementById("quick");
+  var mensajes = [];   // conversación enviada al servidor (sin el saludo inicial)
+  var ocupado = false;
+  var fallback = "¡Hola! Soy el asistente de Educación Continua de la Javeriana. En pocos minutos te ayudo a encontrar el programa que mejor encaja contigo.\n\nAntes de continuar, es necesario contar con tu autorización para el tratamiento de datos personales. Puedes revisar nuestra política en el siguiente enlace: https://www.javeriana.edu.co/informacion/politica-y-tratamiento-de-datos-personales\n\n¿Autorizas el tratamiento de tus datos?\nAutorizo: SÍ\nNo autorizo: NO";
 
-  var CATALOGO = [];
-  var CATALOGO_META = { updated_at: null };
-
-  var chatEl = document.getElementById('chat');
-  var formEl = document.getElementById('inputbar');
-  var inputEl = document.getElementById('input');
-  var sendEl = document.getElementById('send');
-  var footnote = document.getElementById('footnote');
-
-  var turns = [{role:"user", content: "Inicia SOLO con un saludo breve y cercano (una o dos frases) y de inmediato haz la pregunta 0 (nombre completo y correo electrónico). No agregues nada más."}];
-
-  var state = { step: 0, answers: {}, perfilTexto: "", nombre: "", correo: "", deliverableDone: false };
-
-  function bubble(role, text){
-    var row = document.createElement('div');
-    row.className = 'row ' + (role === 'user' ? 'user' : 'bot');
-    var b = document.createElement('div');
-    b.className = 'bubble';
-    b.innerHTML = linkify(text);
-    row.appendChild(b);
-    chatEl.appendChild(row);
-    chatEl.scrollTop = chatEl.scrollHeight;
+  function formato(t){
+    var e = t.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+    e = e.replace(/\*\*([^*]+)\*\*/g,"<strong>$1</strong>");
+    e = e.replace(/(https?:\/\/[^\s<]+)/g,function(u){
+      var c = u.replace(/[.,;:)\]]+$/,""), resto = u.slice(c.length);
+      return '<a href="'+c+'" target="_blank" rel="noopener">'+c+'</a>'+resto;
+    });
+    return e.replace(/\n/g,"<br>");
+  }
+  function burbuja(rol, texto){
+    var row = document.createElement("div"); row.className = "row " + rol;
+    if(rol === "bot"){ var a = document.createElement("div"); a.className = "avatar"; a.innerHTML = '<img src="/logo.png" alt="">'; row.appendChild(a); }
+    var b = document.createElement("div"); b.className = "bubble";
+    if(texto === null){ b.innerHTML = '<span class="typing"><span></span><span></span><span></span></span>'; }
+    else { b.innerHTML = formato(texto); }
+    row.appendChild(b); chat.appendChild(row); chat.scrollTop = chat.scrollHeight;
     return b;
   }
+  function setOcupado(v){ ocupado = v; send.disabled = v; input.disabled = v; }
+  function mostrarBotones(v){ quick.hidden = !v; }
 
-  function linkify(text){
-    var esc = (text||"").replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-    return esc.replace(/(https?:\/\/[^\s]+)/g, function(u){
-      var clean = u.replace(/[.,;:)]+$/, '');
-      return '<a href="'+clean+'" target="_blank" rel="noopener">'+clean+'</a>';
-    }).replace(/\n/g,'<br>');
+  function pideAutorizacion(texto){
+    var t = texto.toLowerCase();
+    return /¿autorizas|escribe s[ií] y seguimos/.test(t);
   }
 
-  function typingBubble(){
-    var row = document.createElement('div');
-    row.className = 'row bot';
-    var b = document.createElement('div');
-    b.className = 'bubble';
-    b.innerHTML = '<span class="typing"><span></span><span></span><span></span></span>';
-    row.appendChild(b);
-    chatEl.appendChild(row);
-    chatEl.scrollTop = chatEl.scrollHeight;
-    return b;
-  }
 
-  function setBusy(busy){ sendEl.disabled = busy; inputEl.disabled = busy; }
-  function autoGrow(){ inputEl.style.height = 'auto'; inputEl.style.height = Math.min(120, inputEl.scrollHeight) + 'px'; }
-  inputEl.addEventListener('input', autoGrow);
+  var datosCompletos = false;
+  var TEXTO_FORM = "¡Gracias por autorizar! Para empezar, completa estos cuatro datos:";
+  function esAfirmativo(t){ return /^(s[ií]|s[ií][,.! ]|autorizo|acepto)/i.test(t.trim()) && !/^no\b/i.test(t.trim()); }
 
-  function normaliza(s){ return (s||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,""); }
-  var STOP = new Set(["de","la","el","en","y","a","los","las","un","una","para","con","del","que","es","mi","me","lo","por","su","se","al","como","mas","más","o","tengo","hago","trabajo"]);
-  function palabrasClave(texto){ return normaliza(texto).split(/[^a-z0-9]+/).filter(function(w){return w.length>3 && !STOP.has(w);}); }
-  function shortlistCatalogo(textoPerfil, max){
-    var claves = palabrasClave(textoPerfil);
-    var scored = CATALOGO.map(function(p){
-      var hay = normaliza(p.titulo + " " + p.tipo);
-      var score = 0;
-      claves.forEach(function(k){ if(hay.indexOf(k) !== -1) score += 1; });
-      return {p:p, score:score};
+  function mostrarFormulario(){
+    var b = burbuja("bot", TEXTO_FORM); b.classList.add("conform");
+    var f = document.createElement("form"); f.className = "datos"; f.noValidate = true;
+    f.innerHTML =
+      '<label>Nombre completo<input name="nombre" autocomplete="name" placeholder="Nombres y apellidos"><span class="err"></span></label>' +
+      '<div class="fila"><label>Tipo de documento<select name="tipo"><option value="">Selecciona…</option><option>CC</option><option>TI</option><option>CE</option><option>Pasaporte</option><option>PPT</option><option>Otro</option></select><span class="err"></span></label>' +
+      '<label>Número de documento<input name="numero" inputmode="text" placeholder="Sin puntos ni espacios"><span class="err"></span></label></div>' +
+      '<label>Correo electrónico<input name="correo" type="email" autocomplete="email" placeholder="nombre@correo.com"><span class="err"></span></label>' +
+      '<button type="submit">Continuar</button>';
+    b.appendChild(f);
+    input.disabled = true; send.disabled = true; input.placeholder = "Completa el formulario para continuar";
+    chat.scrollTop = chat.scrollHeight;
+    f.elements.nombre.focus();
+
+    function marcar(el, msg){ var e = el.parentNode.querySelector(".err"); e.textContent = msg || ""; el.classList.toggle("inval", !!msg); return !msg; }
+    function validar(){
+      var n = f.elements.nombre, t = f.elements.tipo, d = f.elements.numero, c = f.elements.correo, ok = true;
+      var nom = n.value.trim().replace(/\s+/g," ");
+      ok = marcar(n, nom.split(" ").length < 2 || /[0-9@]/.test(nom) ? "Escribe tu nombre y al menos un apellido." : "") && ok;
+      ok = marcar(t, t.value ? "" : "Selecciona el tipo de documento.") && ok;
+      var num = d.value.replace(/[\s.\-]/g,"");
+      var numOk = /^(CC|TI|CE)$/.test(t.value) ? /^[0-9]{5,12}$/.test(num) : /^[A-Za-z0-9]{4,15}$/.test(num);
+      ok = marcar(d, numOk ? "" : (/^(CC|TI|CE)$/.test(t.value) ? "Solo números, entre 5 y 12 dígitos." : "Revisa el número de documento.")) && ok;
+      ok = marcar(c, /^[^\s@]+@[^\s@]+\.[A-Za-z]{2,}$/.test(c.value.trim()) ? "" : "Revisa el correo (ej. nombre@correo.com).") && ok;
+      return ok ? {nombre: nom, tipo: t.value, numero: num, correo: c.value.trim().toLowerCase()} : null;
+    }
+    f.addEventListener("submit", function(e){
+      e.preventDefault();
+      var v = validar();
+      if(!v){ var x = f.querySelector(".inval"); if(x) x.focus(); return; }
+      f.remove(); b.innerHTML = formato(TEXTO_FORM);
+      datosCompletos = true; input.placeholder = "Escribe tu respuesta...";
+      enviar("Mis datos:\nNombre completo: " + v.nombre + "\nTipo de documento: " + v.tipo + "\nNúmero de documento: " + v.numero + "\nCorreo electrónico: " + v.correo, true);
     });
-    scored.sort(function(a,b){ return b.score - a.score || (a.p.fecha_inicio_iso < b.p.fecha_inicio_iso ? -1 : 1); });
-    var top = scored.filter(function(s){return s.score>0;}).slice(0, max);
-    if(top.length < 12){
-      var extra = scored.filter(function(s){return s.score===0;}).slice(0, 12-top.length);
-      top = top.concat(extra);
+  }
+
+  async function enviar(texto, desdeFormulario){
+    texto = (texto || "").trim();
+    if(!texto || ocupado) return;
+    mostrarBotones(false);
+    burbuja("user", texto);
+    mensajes.push({role:"user", content:texto});
+    // Autorizó y aún no ha dado sus datos: mostramos el formulario (sin llamar a la API).
+    if(!datosCompletos && !desdeFormulario && esAfirmativo(texto)){
+      mensajes.push({role:"assistant", content: TEXTO_FORM});
+      mostrarFormulario();
+      return;
     }
-    return top.map(function(s){ return s.p; });
-  }
-  function catalogoParaPrompt(lista){
-    return lista.map(function(p){
-      return "- " + p.titulo + " | " + p.tipo + " | inicia " + p.fecha_inicio + " | " + p.duracion + " | " + p.url;
-    }).join("\n");
-  }
-
-  function contarPreguntaDesdeTexto(texto){
-    return normaliza(texto).indexOf("resumen de perfil") !== -1;
-  }
-
-  async function llamarBackend(mensajes){
-    var resp = await fetch("/api/chat", {
-      method: "POST",
-      headers: { "content-type": "application/json" },
-      body: JSON.stringify({ messages: mensajes })
-    });
-    var data = await resp.json().catch(function(){ return {}; });
-    if(!resp.ok){
-      throw { code: "http_" + resp.status, message: data && data.message };
-    }
-    return data.text || "";
-  }
-
-  function copyError(e){
-    if(e && e.code === "http_429") return "Estamos recibiendo muchas conversaciones a la vez. ¿Puedes intentar de nuevo en un momento?";
-    if(e && String(e.code||"").indexOf("http_5") === 0) return "Tuve un problema técnico para responder. ¿Puedes intentar de nuevo?";
-    return "No pude conectarme en este momento. Intenta de nuevo en unos segundos.";
-  }
-
-  async function pedirRespuesta(extraUserSuffix){
-    var typingEl = typingBubble();
-    setBusy(true);
-    if(extraUserSuffix){
-      turns[turns.length-1].content += extraUserSuffix;
-    }
+    setOcupado(true);
+    var b = burbuja("bot", null);
     try{
-      var text = await llamarBackend(turns);
-      turns.push({role:"assistant", content: text});
-      typingEl.innerHTML = linkify(text);
-      if(contarPreguntaDesdeTexto(text)) state.deliverableDone = true;
-      chatEl.scrollTop = chatEl.scrollHeight;
+      var r = await fetch("/api/chat", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({messages: mensajes})});
+      var d = await r.json();
+      var resp = d.reply || "Tuve un problema para responder. ¿Puedes intentar de nuevo?";
+      b.innerHTML = formato(resp);
+      if(!d.error){ mensajes.push({role:"assistant", content: resp}); }
+      else { mensajes.pop(); }
+      if(pideAutorizacion(resp)) mostrarBotones(true);
+      if(d.fin){ input.placeholder = "Conversación finalizada"; setOcupado(true); return; }
     }catch(e){
-      typingEl.innerHTML = linkify(copyError(e));
-    }finally{
-      setBusy(false);
-      inputEl.focus();
+      b.innerHTML = formato("No pude conectarme. Revisa tu conexión e intenta de nuevo.");
+      mensajes.pop();
     }
+    chat.scrollTop = chat.scrollHeight;
+    setOcupado(false); input.focus();
   }
 
-  async function enviarMensaje(texto){
-    if(!texto.trim()) return;
-    bubble('user', texto);
+  form.addEventListener("submit", function(e){ e.preventDefault(); var t = input.value; input.value = ""; input.style.height = "auto"; enviar(t); });
+  input.addEventListener("keydown", function(e){ if(e.key === "Enter" && !e.shiftKey){ e.preventDefault(); form.requestSubmit(); } });
+  input.addEventListener("input", function(){ input.style.height = "auto"; input.style.height = Math.min(130, input.scrollHeight) + "px"; });
+  quick.addEventListener("click", function(e){ var v = e.target.getAttribute("data-v"); if(v) enviar(v); });
 
-    if(state.step === 0){
-      var m = texto.match(/[\w.+-]+@[\w-]+\.[\w.-]+/);
-      if(m) state.correo = m[0];
-      state.nombre = texto.replace(m ? m[0] : "", "").replace(/[,;:-]+$/,'').trim() || state.nombre;
-    }
-    state.answers["p"+state.step] = texto;
-    state.perfilTexto += " " + texto;
-    state.step = Math.min(state.step + 1, 5);
-
-    turns.push({role:"user", content: texto});
-
-    if(state.step === 5 && !state.deliverableDone){
-      var lista = shortlistCatalogo(state.perfilTexto, 22);
-      var bloque = "\n\n[CATALOGO_VIGENTE - oferta abierta verificada, usa SOLO estos programas]\n" + catalogoParaPrompt(lista) +
-        "\n\nCon la información de todas las respuestas anteriores, genera ahora el ENTREGABLE completo en el formato indicado, y después, en el MISMO mensaje, agrega el párrafo de cierre invitando a inscribirse y preguntando si desea que lo contactemos por WhatsApp.";
-      await pedirRespuesta(bloque);
-    } else {
-      await pedirRespuesta(null);
-    }
-  }
-
-  formEl.addEventListener('submit', function(ev){
-    ev.preventDefault();
-    var texto = inputEl.value;
-    inputEl.value = '';
-    autoGrow();
-    enviarMensaje(texto);
-  });
-  inputEl.addEventListener('keydown', function(ev){
-    if(ev.key === 'Enter' && !ev.shiftKey){ ev.preventDefault(); formEl.requestSubmit(); }
-  });
-
-  async function cargarCatalogo(){
-    try{
-      var resp = await fetch('/catalogo.json', { cache: 'no-store' });
-      if(resp.ok){
-        var data = await resp.json();
-        if(data && Array.isArray(data.programas)){
-          CATALOGO = data.programas;
-          CATALOGO_META = { updated_at: data.updated_at || null };
-        }
-      }
-    }catch(e){ /* seguimos sin catálogo si falla */ }
-  }
-
-  async function init(){
-    await cargarCatalogo();
-    footnote.textContent = "Oferta verificada el " + (CATALOGO_META.updated_at || "—") + " (" + CATALOGO.length + " programas vigentes). Conversación orientativa.";
-    pedirRespuesta(null);
-  }
-  init();
+  (async function iniciar(){
+    var saludo = fallback;
+    try{ var r = await fetch("/api/chat"); var d = await r.json(); if(d.mensajeInicial) saludo = d.mensajeInicial; if(d.catalogoActualizado){ var f=d.catalogoActualizado.split('-'); document.getElementById('oferta').textContent='Oferta verificada el '+f[2]+'/'+f[1]+'/'+f[0]+' · '; } }catch(e){}
+    burbuja("bot", saludo);
+    mostrarBotones(true);
+  })();
 })();
 </script>
 </body>
