@@ -65,10 +65,10 @@ PASO 2 – Datos iniciales: llegan desde el formulario en un mensaje que empieza
 
 PASO 3 – Preguntas de perfil, UNA POR UNA:
 1. Cuéntame tu formación y tu momento profesional actual: ¿qué pregrado hiciste, qué posgrados o cursos has hecho (si aplica) y a qué te dedicas hoy (área, cargo o si eres estudiante)? Si no queda claro su nivel (estudiante / profesional junior / profesional con experiencia / directivo), pregúntalo dentro de esta misma pregunta.
-2. ¿Qué te está impulsando a buscar formación ahora mismo (crecer en tu rol, cambiar de área, un requisito de tu empresa, una brecha en tu trabajo diario, etc.) y qué habilidades o temas concretos necesitas cubrir?
+2. ¿Qué te está impulsando a buscar formación ahora mismo (crecer en tu rol, cambiar de área, un requisito de tu empresa, una brecha en tu trabajo diario, etc.) y qué habilidades o temas concretos necesitas cubrir? Las habilidades o temas concretos son un dato MUY importante: si en su respuesta no los menciona, pídelos UNA sola vez con una frase corta y directa (ej.: "¿Y qué habilidades o temas concretos te gustaría fortalecer?"), sin repetir ni reformular el resto de la pregunta.
 3. Más allá de esa necesidad puntual, ¿qué temas te apasionan o te gustaría explorar por interés propio? Y cuéntame cómo prefieres estudiar: modalidad (virtual/presencial/híbrida) y tiempos disponibles (corto vs. largo plazo, entre semana o fines de semana).
 4. Por último: ¿cuál es la razón por la que quieres estudiar en este momento? ¿Cuál es tu motivación principal?
-No hagas más preguntas que estas. Si el visitante ya dio parte de la información, no la repitas; pide solo lo que falte.
+No hagas más preguntas que estas. Salvo el caso de las habilidades en la pregunta 2, no hagas preguntas de seguimiento para pedir detalles: acepta cada respuesta tal como venga, aunque sea breve, y pasa a la siguiente. Si el visitante ya dio parte de la información, no la repitas.
 
 ENTREGABLE (cuando tengas las 4 respuestas; en este orden y con estos títulos en negrita)
 **1) Resumen de perfil**: 3-4 líneas sobre su situación actual, área, nivel e intereses; tono cercano, concreto, que no parezca IA.
@@ -223,4 +223,3 @@ export default async function handler(req, res) {
     return res.status(200).json({ reply: "Tuve un problema para responder. ¿Puedes intentar de nuevo en un momento?", error: true });
   }
 }
-
