@@ -68,4 +68,42 @@ function parseFechaDDMMYYYY(fecha) {
   hoy.setHours(0, 0, 0, 0);
 
   const vistos = new Set();
-  const
+  const vigentes = [];
+  for (const p of crudos) {
+    if (!p.titulo || !p.url || !p.fecha_inicio) continue;
+    const fecha = parseFechaDDMMYYYY(p.fecha_inicio);
+    if (!fecha || fecha < hoy) continue;
+    const url = p.url.startsWith("http") ? p.url : "https://educacionvirtual.javeriana.edu.co" + p.url;
+    if (vistos.has(url)) continue;
+    vistos.add(url);
+    const [d, m, y] = p.fecha_inicio.split("/");
+    vigentes.push({
+      titulo: p.titulo,
+      tipo: p.tipo,
+      duracion: p.duracion,
+      nivel: p.nivel,
+      fecha_inicio: p.fecha_inicio,
+      fecha_inicio_iso: `${y}-${m}-${d}`,
+      url,
+    });
+  }
+
+  vigentes.sort((a, b) => (a.fecha_inicio_iso < b.fecha_inicio_iso ? -1 : 1));
+
+  if (vigentes.length === 0) {
+    console.error("No se encontró ningún programa vigente — no se sobrescribe catalogo.json por seguridad.");
+    process.exit(1);
+  }
+
+  const data = {
+    programas: vigentes,
+    updated_at: new Date().toISOString().slice(0, 10),
+    source: URL_PROGRAMAS,
+  };
+
+  fs.writeFileSync(SALIDA, JSON.stringify(data, null, 2), "utf-8");
+  console.log("catalogo.json actualizado con", vigentes.length, "programas vigentes.");
+})().catch((err) => {
+  console.error("Error actualizando el catálogo:", err);
+  process.exit(1);
+});
