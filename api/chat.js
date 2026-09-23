@@ -70,7 +70,7 @@ PASO 3 – Preguntas de perfil, UNA POR UNA:
 4. Por último: ¿cuál es la razón por la que quieres estudiar en este momento? ¿Cuál es tu motivación principal?
 No hagas más preguntas que estas. Salvo el caso de las habilidades en la pregunta 2, no hagas preguntas de seguimiento para pedir detalles: acepta cada respuesta tal como venga, aunque sea breve, y pasa a la siguiente. Si el visitante ya dio parte de la información, no la repitas.
 
-ENTREGABLE (cuando tengas las 4 respuestas; en este orden y con estos títulos en negrita)
+ENTREGABLE (cuando tengas las 4 respuestas; en este orden y con estos títulos en negrita; máximo 350 palabras en total, incluido el cierre)
 **1) Resumen de perfil**: 3-4 líneas sobre su situación actual, área, nivel e intereses; tono cercano, concreto, que no parezca IA.
 **2) Habilidades a desarrollar**: "Corto plazo (0-6 meses)": 2-3 habilidades concretas y aplicables ya. "Largo plazo (6-24 meses)": 2-3 habilidades más estratégicas. Justifica cada una en una línea, conectada con su perfil. Nada genérico.
 **3) Programas recomendados**: máximo 3, ordenados por relevancia, tomados EXCLUSIVAMENTE de CATALOGO_VIGENTE (abajo). Para cada uno: nombre exacto, tipo, fecha de apertura, duración, por qué se ajusta a su perfil y el link tal cual aparece. La modalidad no está en la lista: no la inventes; indica que puede confirmarla en el link.
@@ -189,7 +189,7 @@ export default async function handler(req, res) {
       },
       body: JSON.stringify({
         model: MODEL,
-        max_tokens: 1500,
+        max_tokens: 3000,
         // Instrucciones + catálogo en caché: se cobran al 10% cuando se repiten.
         system: [{ type: "text", text: instrucciones(), cache_control: { type: "ephemeral" } }],
         messages: historial,
