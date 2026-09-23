@@ -24,7 +24,11 @@ function parseFechaDDMMYYYY(fecha) {
   const page = await browser.newPage({ userAgent: "Mozilla/5.0 (compatible; AsistenteEducacionContinuaBot/1.0)" });
 
   console.log("Abriendo", URL_PROGRAMAS);
-  await page.goto(URL_PROGRAMAS, { waitUntil: "networkidle", timeout: 90000 });
+  // "domcontentloaded" en vez de "networkidle": esta página tiene scripts
+  // de fondo (analítica, chat, etc.) que nunca dejan la red 100% quieta,
+  // así que "networkidle" siempre agotaba el tiempo. Con el DOM cargado
+  // y esperando luego el selector concreto es suficiente y más confiable.
+  await page.goto(URL_PROGRAMAS, { waitUntil: "domcontentloaded", timeout: 90000 });
 
   // cerrar banner de cookies si aparece (no bloquea si no existe)
   try {
@@ -33,9 +37,9 @@ function parseFechaDDMMYYYY(fecha) {
     /* sin banner, seguimos */
   }
 
-  await page.waitForSelector("li.item-programa", { timeout: 30000 });
+  await page.waitForSelector("li.item-programa", { timeout: 60000 });
   // pequeña espera extra por si el listado sigue montándose
-  await page.waitForTimeout(2000);
+  await page.waitForTimeout(3000);
 
   const crudos = await page.evaluate(() => {
     const items = document.querySelectorAll("li.item-programa");
