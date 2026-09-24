@@ -1,33 +1,6 @@
 {
   "programas": [
     {
-      "titulo": "Microsoft Power BI con Inteligencia Artificial",
-      "tipo": "Curso",
-      "duracion": "40 Horas",
-      "nivel": "Básico",
-      "fecha_inicio": "23/09/2026",
-      "fecha_inicio_iso": "2026-09-23",
-      "url": "https://educacionvirtual.javeriana.edu.co/microsoft-power-bi-con-inteligencia-artificial"
-    },
-    {
-      "titulo": "Inteligencia artificial y agentes autónomos para la Edificación de Vivienda en Colombia",
-      "tipo": "Curso",
-      "duracion": "20 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "23/09/2026",
-      "fecha_inicio_iso": "2026-09-23",
-      "url": "https://educacionvirtual.javeriana.edu.co/inteligencia-artificial-y-agentes-autonomos-para-la-edificacion-de-vivienda-en-colombia"
-    },
-    {
-      "titulo": "Presentación y ejecución de proyectos del sistema general de regalías",
-      "tipo": "Curso",
-      "duracion": "40 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "23/09/2026",
-      "fecha_inicio_iso": "2026-09-23",
-      "url": "https://educacionvirtual.javeriana.edu.co/presentacion-proyectos-sistema-regalias"
-    },
-    {
       "titulo": "Derecho matrimonial canónico",
       "tipo": "Diplomado",
       "duracion": "140 Horas",
@@ -188,6 +161,15 @@
       "fecha_inicio": "26/09/2026",
       "fecha_inicio_iso": "2026-09-26",
       "url": "https://educacionvirtual.javeriana.edu.co/insercion-implante-subdermico"
+    },
+    {
+      "titulo": "Gestión de proyectos y obras de construcción",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "28/09/2026",
+      "fecha_inicio_iso": "2026-09-28",
+      "url": "https://educacionvirtual.javeriana.edu.co/gestion-proyectos-y-obras-construccion"
     },
     {
       "titulo": "Relacionamiento estratégico para directivos",
@@ -550,6 +532,15 @@
       "url": "https://educacionvirtual.javeriana.edu.co/teoria-del-cine-y-su-contenido-simbolico-y-tradicional"
     },
     {
+      "titulo": "Corrección de Estilo",
+      "tipo": "Curso",
+      "duracion": "60 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "05/10/2026",
+      "fecha_inicio_iso": "2026-10-05",
+      "url": "https://educacionvirtual.javeriana.edu.co/correccion-de-estilo-virtual"
+    },
+    {
       "titulo": "Bar Manager",
       "tipo": "Curso",
       "duracion": "76 Horas",
@@ -593,6 +584,24 @@
       "fecha_inicio": "05/10/2026",
       "fecha_inicio_iso": "2026-10-05",
       "url": "https://educacionvirtual.javeriana.edu.co/gestion-administrativa-publica"
+    },
+    {
+      "titulo": "Avalúos: Innovación y estrategia en valoraciones inmobiliarias urbanas y rurales",
+      "tipo": "Curso",
+      "duracion": "51 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "06/10/2026",
+      "fecha_inicio_iso": "2026-10-06",
+      "url": "https://educacionvirtual.javeriana.edu.co/avaluos-innovacion-y-estrategia-en-valoraciones-inmobiliarias-urbanas-y-rurales"
+    },
+    {
+      "titulo": "Coaching y liderazgo",
+      "tipo": "Diplomado",
+      "duracion": "99 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "06/10/2026",
+      "fecha_inicio_iso": "2026-10-06",
+      "url": "https://educacionvirtual.javeriana.edu.co/coaching-y-liderazgo"
     },
     {
       "titulo": "Fortalecimiento de Habilidades de Liderazgo en Mujeres",
@@ -874,6 +883,42 @@
       "url": "https://educacionvirtual.javeriana.edu.co/cromatografia-liquida"
     },
     {
+      "titulo": "NIIF - Normas Internacionales de Información Financiera - Alianza con la Camara de comercio de Ibague",
+      "tipo": "Diplomado",
+      "duracion": "83 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "13/10/2026",
+      "fecha_inicio_iso": "2026-10-13",
+      "url": "https://educacionvirtual.javeriana.edu.co/niif-normas-internacionales-de-informacion-financiera-alianza-con-la-camara-de-comercio-de-ibague"
+    },
+    {
+      "titulo": "¿Cómo prepararse para la certificación como traductor e intérprete oficial inglés-español-inglés?",
+      "tipo": "Curso",
+      "duracion": "52 Horas",
+      "nivel": "Avanzado",
+      "fecha_inicio": "13/10/2026",
+      "fecha_inicio_iso": "2026-10-13",
+      "url": "https://educacionvirtual.javeriana.edu.co/como-prepararse-para-la-certificacion-como-traductor-e-interprete-oficial-ingles-espanol-ingles"
+    },
+    {
+      "titulo": "Microsoft Project Aplicado a Gestión de Obras de Construcción",
+      "tipo": "Curso",
+      "duracion": "40 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "13/10/2026",
+      "fecha_inicio_iso": "2026-10-13",
+      "url": "https://educacionvirtual.javeriana.edu.co/microsoft-project-en-obras-de-construccion"
+    },
+    {
+      "titulo": "Comunicaciones Estratégicas",
+      "tipo": "Diplomado",
+      "duracion": "84 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "13/10/2026",
+      "fecha_inicio_iso": "2026-10-13",
+      "url": "https://educacionvirtual.javeriana.edu.co/comunicaciones-estrategicas"
+    },
+    {
       "titulo": "Mujeres en Alta Dirección: Estrategia, Poder e Influencia",
       "tipo": "Curso",
       "duracion": "50 Horas",
@@ -917,6 +962,15 @@
       "fecha_inicio": "13/10/2026",
       "fecha_inicio_iso": "2026-10-13",
       "url": "https://educacionvirtual.javeriana.edu.co/gestion-y-transformacion-de-conflictos-enfoques-clasicos-y-contemporaneos"
+    },
+    {
+      "titulo": "Presentación y ejecución de proyectos del sistema general de regalías",
+      "tipo": "Curso",
+      "duracion": "40 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "14/10/2026",
+      "fecha_inicio_iso": "2026-10-14",
+      "url": "https://educacionvirtual.javeriana.edu.co/presentacion-proyectos-sistema-regalias"
     },
     {
       "titulo": "Minerales estratégicos y energías renovables para la seguridad alimentaria y energética",
@@ -1216,6 +1270,15 @@
       "url": "https://educacionvirtual.javeriana.edu.co/prematrimonial"
     },
     {
+      "titulo": "Expresión oral y manejo de públicos",
+      "tipo": "Curso",
+      "duracion": "50 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "03/11/2026",
+      "fecha_inicio_iso": "2026-11-03",
+      "url": "https://educacionvirtual.javeriana.edu.co/taller-de-expresion-oral-y-manejo-de-publicos"
+    },
+    {
       "titulo": "Crianza y educación consciente",
       "tipo": "Curso",
       "duracion": "21 Horas",
@@ -1288,24 +1351,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/bootcamp-ia-para-lideres-empresariales-caribe"
     },
     {
-      "titulo": "Modelos longitudinales aplicados a datos de la vida real",
-      "tipo": "Curso",
-      "duracion": "30 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "30/11/2026",
-      "fecha_inicio_iso": "2026-11-30",
-      "url": "https://educacionvirtual.javeriana.edu.co/modelos-longitudinales-aplicados-a-datos-de-la-vida-real"
-    },
-    {
-      "titulo": "Clasificación de eventos en salud basada en datos de la vida real",
-      "tipo": "Curso",
-      "duracion": "30 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "30/11/2026",
-      "fecha_inicio_iso": "2026-11-30",
-      "url": "https://educacionvirtual.javeriana.edu.co/clasificacion-de-eventos-en-salud-basada-en-datos-de-la-vida-real"
-    },
-    {
       "titulo": "Evaluación de intervenciones en salud con datos de la vida real",
       "tipo": "Curso",
       "duracion": "30 Horas",
@@ -1315,6 +1360,15 @@
       "url": "https://educacionvirtual.javeriana.edu.co/evaluacion-de-intervenciones-en-salud-con-datos-de-la-vida-real"
     },
     {
+      "titulo": "Modelos longitudinales aplicados a datos de la vida real",
+      "tipo": "Curso",
+      "duracion": "30 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "30/11/2026",
+      "fecha_inicio_iso": "2026-11-30",
+      "url": "https://educacionvirtual.javeriana.edu.co/modelos-longitudinales-aplicados-a-datos-de-la-vida-real"
+    },
+    {
       "titulo": "Visualización de datos en salud de la vida real",
       "tipo": "Curso",
       "duracion": "30 Horas",
@@ -1322,8 +1376,17 @@
       "fecha_inicio": "30/11/2026",
       "fecha_inicio_iso": "2026-11-30",
       "url": "https://educacionvirtual.javeriana.edu.co/visualizacion-de-datos-en-salud-de-la-vida-real"
+    },
+    {
+      "titulo": "Clasificación de eventos en salud basada en datos de la vida real",
+      "tipo": "Curso",
+      "duracion": "30 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "30/11/2026",
+      "fecha_inicio_iso": "2026-11-30",
+      "url": "https://educacionvirtual.javeriana.edu.co/clasificacion-de-eventos-en-salud-basada-en-datos-de-la-vida-real"
     }
   ],
-  "updated_at": "2026-09-23",
+  "updated_at": "2026-09-24",
   "source": "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"
 }
