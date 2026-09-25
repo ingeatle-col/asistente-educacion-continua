@@ -1,78 +1,6 @@
 {
   "programas": [
     {
-      "titulo": "Derecho matrimonial canónico",
-      "tipo": "Diplomado",
-      "duracion": "140 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "24/09/2026",
-      "fecha_inicio_iso": "2026-09-24",
-      "url": "https://educacionvirtual.javeriana.edu.co/derecho-matrimonial-canónico"
-    },
-    {
-      "titulo": "Contratación Estatal Régimen general Actualizado con la normativa, jurisprudencia y conceptos",
-      "tipo": "Diplomado",
-      "duracion": "100 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "24/09/2026",
-      "fecha_inicio_iso": "2026-09-24",
-      "url": "https://educacionvirtual.javeriana.edu.co/contratacion-estatal"
-    },
-    {
-      "titulo": "Ética y cultura del trabajo en las organizaciones",
-      "tipo": "Curso",
-      "duracion": "18 Horas",
-      "nivel": "Básico",
-      "fecha_inicio": "24/09/2026",
-      "fecha_inicio_iso": "2026-09-24",
-      "url": "https://educacionvirtual.javeriana.edu.co/etica-y-cultura-del-trabajo-en-las-organizaciones"
-    },
-    {
-      "titulo": "Administración del Riesgo y Auditoría Forense",
-      "tipo": "Diplomado",
-      "duracion": "100 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "24/09/2026",
-      "fecha_inicio_iso": "2026-09-24",
-      "url": "https://educacionvirtual.javeriana.edu.co/administracion-riesgo-y-auditoria-forense"
-    },
-    {
-      "titulo": "Control y Auditoría Interna",
-      "tipo": "Diplomado",
-      "duracion": "100 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "24/09/2026",
-      "fecha_inicio_iso": "2026-09-24",
-      "url": "https://educacionvirtual.javeriana.edu.co/control-y-auditoria-interna"
-    },
-    {
-      "titulo": "Argumentación Jurídica",
-      "tipo": "Curso",
-      "duracion": "40 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "24/09/2026",
-      "fecha_inicio_iso": "2026-09-24",
-      "url": "https://educacionvirtual.javeriana.edu.co/argumentacion-juridica"
-    },
-    {
-      "titulo": "Gestión de riesgo reputacional y manejo de crisis - Medellín",
-      "tipo": "Curso",
-      "duracion": "24 Horas",
-      "nivel": "Básico",
-      "fecha_inicio": "24/09/2026",
-      "fecha_inicio_iso": "2026-09-24",
-      "url": "https://educacionvirtual.javeriana.edu.co/gestion-de-riesgo-reputacional-y-manejo-de-crisis-antioquia"
-    },
-    {
-      "titulo": "Crianza y Educación Consciente",
-      "tipo": "Curso",
-      "duracion": "20 Horas",
-      "nivel": "Básico",
-      "fecha_inicio": "24/09/2026",
-      "fecha_inicio_iso": "2026-09-24",
-      "url": "https://educacionvirtual.javeriana.edu.co/crianza-y-educacion-consciente-oriente"
-    },
-    {
       "titulo": "SECOP II",
       "tipo": "Curso",
       "duracion": "8 Horas",
@@ -206,15 +134,6 @@
       "fecha_inicio": "28/09/2026",
       "fecha_inicio_iso": "2026-09-28",
       "url": "https://educacionvirtual.javeriana.edu.co/gestion-de-pqrs"
-    },
-    {
-      "titulo": "Capacitación en Centrales de Esterilización",
-      "tipo": "Curso",
-      "duracion": "24 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "28/09/2026",
-      "fecha_inicio_iso": "2026-09-28",
-      "url": "https://educacionvirtual.javeriana.edu.co/capacitacion-en-centrales-de-esterilizacion"
     },
     {
       "titulo": "Liderazgo para Equipos y Resultados en Crecimiento",
@@ -487,6 +406,15 @@
       "url": "https://educacionvirtual.javeriana.edu.co/propiedad-horizontal"
     },
     {
+      "titulo": "Advanced Management Program - AMP",
+      "tipo": "Programa para profesionales",
+      "duracion": "240 Horas",
+      "nivel": "Avanzado",
+      "fecha_inicio": "02/10/2026",
+      "fecha_inicio_iso": "2026-10-02",
+      "url": "https://educacionvirtual.javeriana.edu.co/alta-gerencia-y-direccion-amp"
+    },
+    {
       "titulo": "Gestión integral de RCD - Separación y Manejo en obra",
       "tipo": "Curso",
       "duracion": "8 Horas",
@@ -530,6 +458,15 @@
       "fecha_inicio": "03/10/2026",
       "fecha_inicio_iso": "2026-10-03",
       "url": "https://educacionvirtual.javeriana.edu.co/teoria-del-cine-y-su-contenido-simbolico-y-tradicional"
+    },
+    {
+      "titulo": "Capacitación en Centrales de Esterilización",
+      "tipo": "Curso",
+      "duracion": "24 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "05/10/2026",
+      "fecha_inicio_iso": "2026-10-05",
+      "url": "https://educacionvirtual.javeriana.edu.co/capacitacion-en-centrales-de-esterilizacion"
     },
     {
       "titulo": "Corrección de Estilo",
@@ -1387,6 +1324,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/clasificacion-de-eventos-en-salud-basada-en-datos-de-la-vida-real"
     }
   ],
-  "updated_at": "2026-09-24",
+  "updated_at": "2026-09-25",
   "source": "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"
 }
