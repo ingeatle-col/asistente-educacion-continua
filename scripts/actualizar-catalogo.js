@@ -2,6 +2,9 @@
 // extrae TODOS los programas listados (están completos en el DOM, no hay
 // que paginar), se queda solo con los que tienen fecha de apertura futura
 // (o de hoy) definida, y escribe catalogo.json en la raíz del proyecto.
+// Además revisa la página de cada programa con fecha ya pasada: si dice que
+// tiene inscripción continua (p. ej. "la fecha de inicio dependerá del mínimo
+// número de inscritos"), lo incluye marcado con inscripcion_continua: true.
 //
 // Corre dentro de GitHub Actions cada noche (ver .github/workflows/actualizar-catalogo.yml).
 
@@ -64,8 +67,6 @@ function parseFechaDDMMYYYY(fecha) {
     return out;
   });
 
-  await browser.close();
-
   console.log("Programas encontrados en la página:", crudos.length);
 
   const hoy = new Date();
@@ -92,7 +93,69 @@ function parseFechaDDMMYYYY(fecha) {
     });
   }
 
+  // ---- Programas de inscripción continua (fecha publicada ya pasada) ----
+  const PATRONES_CONTINUA = [
+    /depender[áa]\s+del\s+m[íi]nimo\s+(de\s+)?(n[úu]mero\s+de\s+)?inscritos/i,
+    /inscripci[óo]n(es)?\s+(permanente|continua|abierta)s?/i,
+    /apertura\s+(est[áa]\s+)?sujeta\s+al?\s+(m[íi]nimo|n[úu]mero)/i,
+    /inicio\s+(mensual|cada\s+mes)/i,
+  ];
+  const PATRON_CERRADO = /(inscripciones\s+cerradas|programa\s+(cerrado|finalizado)|cupos\s+agotados)/i;
+  // Páginas que se revisan aunque no aparezcan en el listado general.
+  const URLS_ADICIONALES = [
+    "https://educacionvirtual.javeriana.edu.co/club-sapiencia",
+  ];
+  const MAX_REVISIONES = 150;
+  const haceUnAnio = new Date(hoy); haceUnAnio.setFullYear(hoy.getFullYear() - 1);
+
+  const porRevisar = [];
+  const yaRevisadas = new Set(vistos);
+  for (const p of crudos) {
+    if (!p.titulo || !p.url) continue;
+    const url = p.url.startsWith("http") ? p.url : "https://educacionvirtual.javeriana.edu.co" + p.url;
+    const fecha = parseFechaDDMMYYYY(p.fecha_inicio);
+    if (yaRevisadas.has(url) || !fecha || fecha >= hoy || fecha < haceUnAnio) continue;
+    yaRevisadas.add(url);
+    porRevisar.push({ ...p, url });
+  }
+  for (const url of URLS_ADICIONALES) {
+    if (!yaRevisadas.has(url)) { yaRevisadas.add(url); porRevisar.push({ url, titulo: "", tipo: "", duracion: "", nivel: "", fecha_inicio: "" }); }
+  }
+  console.log("Programas con fecha pasada a revisar:", porRevisar.length);
+
+  for (const p of porRevisar.slice(0, MAX_REVISIONES)) {
+    try {
+      await page.goto(p.url, { waitUntil: "domcontentloaded", timeout: 45000 });
+      await page.waitForTimeout(1500);
+      const info = await page.evaluate(() => ({
+        texto: document.body ? document.body.innerText.replace(/\s+/g, " ") : "",
+        h1: (document.querySelector("h1") || {}).innerText || document.title || "",
+      }));
+      if (!PATRONES_CONTINUA.some((r) => r.test(info.texto)) || PATRON_CERRADO.test(info.texto)) continue;
+      const titulo = (p.titulo || info.h1 || "").trim();
+      if (!titulo) continue;
+      let iso = "";
+      if (p.fecha_inicio) { const [d, m, y] = p.fecha_inicio.split("/"); iso = `${y}-${m}-${d}`; }
+      vigentes.push({
+        titulo,
+        tipo: p.tipo || "",
+        duracion: p.duracion || "",
+        nivel: p.nivel || "",
+        fecha_inicio: p.fecha_inicio || "",
+        fecha_inicio_iso: iso,
+        url: p.url,
+        inscripcion_continua: true,
+      });
+      console.log("Inscripción continua:", titulo, "-", p.url);
+    } catch (e) {
+      console.warn("No se pudo revisar", p.url, String(e).slice(0, 120));
+    }
+  }
+
+  await browser.close();
+
   vigentes.sort((a, b) => (a.fecha_inicio_iso < b.fecha_inicio_iso ? -1 : 1));
+  console.log("De ellos, con inscripción continua:", vigentes.filter((p) => p.inscripcion_continua).length);
 
   if (vigentes.length === 0) {
     console.error("No se encontró ningún programa vigente — no se sobrescribe catalogo.json por seguridad.");
