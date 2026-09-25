@@ -1,6 +1,1506 @@
 {
   "programas": [
     {
+      "titulo": "DJ performance y live act profesional: Técnicas de mezcla, setups avanzados y control MIDI",
+      "tipo": "Curso",
+      "duracion": "36 Horas",
+      "nivel": "Avanzado",
+      "fecha_inicio": "30/06/2026",
+      "fecha_inicio_iso": "2026-06-30",
+      "url": "https://educacionvirtual.javeriana.edu.co/dj-performance-y-live-act-profesional-técnicas-de-mezcla-setups-avanzados-y-control-midi",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Creación e ilustración de personajes para jóvenes",
+      "tipo": "Taller",
+      "duracion": "15 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "06/07/2026",
+      "fecha_inicio_iso": "2026-07-06",
+      "url": "https://educacionvirtual.javeriana.edu.co/taller-de-creación-e-ilustracion-de-personajes-para-jovenes",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Mindfulness con énfasis en educación Oriente",
+      "tipo": "Curso",
+      "duracion": "20 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "09/07/2026",
+      "fecha_inicio_iso": "2026-07-09",
+      "url": "https://educacionvirtual.javeriana.edu.co/mindfulness-con-enfasis-en-educacion-oriente",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Derecho Laboral - Sur Occidente con alianza S&D Soluciones y Desarrollo S.A.S",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "21/07/2026",
+      "fecha_inicio_iso": "2026-07-21",
+      "url": "https://educacionvirtual.javeriana.edu.co/derecho-laboral-sur-occidente",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "El arte de comunicar inspirado en técnicas teatrales",
+      "tipo": "Curso",
+      "duracion": "16 Horas",
+      "nivel": "Avanzado",
+      "fecha_inicio": "24/07/2026",
+      "fecha_inicio_iso": "2026-07-24",
+      "url": "https://educacionvirtual.javeriana.edu.co/el-arte-de-comunicar-inspirado-en-tecnicas-teatrales",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Estrategias de gestión y desarrollo del talento humano - Barranquilla",
+      "tipo": "Curso",
+      "duracion": "36 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "29/07/2026",
+      "fecha_inicio_iso": "2026-07-29",
+      "url": "https://educacionvirtual.javeriana.edu.co/estrategias-de-gestion-y-desarrollo-del-talento-humano",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Educación Somática: Conceptos, Prácticas y Pedagogías en Contexto",
+      "tipo": "Diplomado",
+      "duracion": "90 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "29/07/2026",
+      "fecha_inicio_iso": "2026-07-29",
+      "url": "https://educacionvirtual.javeriana.edu.co/educacion-somatica-conceptos-practicas",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Nano-Odontología, Robótica, y Bioingeniería en Odontología",
+      "tipo": "Curso",
+      "duracion": "30 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "30/07/2026",
+      "fecha_inicio_iso": "2026-07-30",
+      "url": "https://educacionvirtual.javeriana.edu.co/nano-odontología-robótica-y-bioingeniería-en-odontología",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "BIM Transformación digital en construcción",
+      "tipo": "Diplomado",
+      "duracion": "99 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "30/07/2026",
+      "fecha_inicio_iso": "2026-07-30",
+      "url": "https://educacionvirtual.javeriana.edu.co/bim-transformacion-digital-en-construccion-eje-cafetero",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Insolvencia e intervención - Con el aval de la Superintendencia de Sociedades",
+      "tipo": "Diplomado",
+      "duracion": "130 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "04/08/2026",
+      "fecha_inicio_iso": "2026-08-04",
+      "url": "https://educacionvirtual.javeriana.edu.co/insolvencia-e-intervencion-con-el-aval-de-la-superintendencia-de-sociedades",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "IA con énfasis en contabilidad finanzas y datos",
+      "tipo": "Taller",
+      "duracion": "4 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "05/08/2026",
+      "fecha_inicio_iso": "2026-08-05",
+      "url": "https://educacionvirtual.javeriana.edu.co/ia-con-enfasis-en-contabilidad-finanzas-y-datos",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Jesús de Nazaret. Una aproximación bíblica, arqueológica y espiritual",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "05/08/2026",
+      "fecha_inicio_iso": "2026-08-05",
+      "url": "https://educacionvirtual.javeriana.edu.co/jesus-de-nazaret.-una-aproximación-biblica-arqueologica-y-espiritual",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Citogenética clásica y molecular: Uso en el diagnóstico clínico y la investigación",
+      "tipo": "Diplomado",
+      "duracion": "90 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "08/08/2026",
+      "fecha_inicio_iso": "2026-08-08",
+      "url": "https://educacionvirtual.javeriana.edu.co/citogenetica-clasica-y-molecula",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Asuntos regulatorios con enfoque en eCTD y normativa regulatoria de EE.UU",
+      "tipo": "Diplomado",
+      "duracion": "135 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "10/08/2026",
+      "fecha_inicio_iso": "2026-08-10",
+      "url": "https://educacionvirtual.javeriana.edu.co/asuntos-regulatorios-con-enfoque-en-ectd-y-normativa-regulatoria-de-ee.uu",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Control de Inventarios para Hoteles y Restaurantes",
+      "tipo": "Curso",
+      "duracion": "12 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "11/08/2026",
+      "fecha_inicio_iso": "2026-08-11",
+      "url": "https://educacionvirtual.javeriana.edu.co/control-de-inventarios-para-hoteles-y-restaurantes",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Gestión de Tesorería y Deuda Pública",
+      "tipo": "Curso",
+      "duracion": "21 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "11/08/2026",
+      "fecha_inicio_iso": "2026-08-11",
+      "url": "https://educacionvirtual.javeriana.edu.co/tesoreria-y-deuda-publica",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Power BI y Python Herramientas esenciales para analistas",
+      "tipo": "Curso",
+      "duracion": "34 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "11/08/2026",
+      "fecha_inicio_iso": "2026-08-11",
+      "url": "https://educacionvirtual.javeriana.edu.co/power-bi-y-python-herramientas-esenciales-para-analistas",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Contratación pública sostenible",
+      "tipo": "Curso",
+      "duracion": "40 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "11/08/2026",
+      "fecha_inicio_iso": "2026-08-11",
+      "url": "https://educacionvirtual.javeriana.edu.co/contratacion-publica-sostenible",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Gestión de riesgo reputacional y manejo de crisis",
+      "tipo": "Curso",
+      "duracion": "24 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "11/08/2026",
+      "fecha_inicio_iso": "2026-08-11",
+      "url": "https://educacionvirtual.javeriana.edu.co/gestión-de-riesgo-reputacional-y-manejo-de-crisis",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Finanzas sostenibles para la gestión inmobiliaria",
+      "tipo": "Curso",
+      "duracion": "27 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "11/08/2026",
+      "fecha_inicio_iso": "2026-08-11",
+      "url": "https://educacionvirtual.javeriana.edu.co/finanzas-sostenibles-para-la-gestion-inmobiliaria",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Inteligencia artificial para la productividad laboral",
+      "tipo": "Diplomado",
+      "duracion": "80 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "13/08/2026",
+      "fecha_inicio_iso": "2026-08-13",
+      "url": "https://educacionvirtual.javeriana.edu.co/inteligencia-artificial-para-la-productividad-laboral",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Presupuesto General de la Nación",
+      "tipo": "Curso",
+      "duracion": "36 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "13/08/2026",
+      "fecha_inicio_iso": "2026-08-13",
+      "url": "https://educacionvirtual.javeriana.edu.co/presupuesto-general-de-la-nación",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Fotografía básica: la magia del cuarto oscuro",
+      "tipo": "Curso",
+      "duracion": "28 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "15/08/2026",
+      "fecha_inicio_iso": "2026-08-15",
+      "url": "https://educacionvirtual.javeriana.edu.co/fotografia-basica-la-magia-del-cuarto-oscuro",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Fundamentos de Piano y Lenguaje Musical",
+      "tipo": "Curso",
+      "duracion": "32 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "15/08/2026",
+      "fecha_inicio_iso": "2026-08-15",
+      "url": "https://educacionvirtual.javeriana.edu.co/fundamentos-de-piano-y-lenguaje-musical",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Derecho Procesal Laboral y Nuevo Código Procesal del Trabajo y de la Seguridad Social",
+      "tipo": "Diplomado",
+      "duracion": "120 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "18/08/2026",
+      "fecha_inicio_iso": "2026-08-18",
+      "url": "https://educacionvirtual.javeriana.edu.co/derecho-procesal-laboral-nuevo-codigo-procesal-trabajo",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Servicio al Cliente en establecimientos de Alimentos y Bebidas",
+      "tipo": "Curso",
+      "duracion": "12 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "18/08/2026",
+      "fecha_inicio_iso": "2026-08-18",
+      "url": "https://educacionvirtual.javeriana.edu.co/servicio-al-cliente-en-establecimientos-de-alimentos-y-bebidas",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Ingeniería Aeroportuaria: Fundamentos del Aeropuerto Moderno",
+      "tipo": "Curso",
+      "duracion": "40 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "18/08/2026",
+      "fecha_inicio_iso": "2026-08-18",
+      "url": "https://educacionvirtual.javeriana.edu.co/ingenieria-aeroportuaria-fundamentos-del-aeropuerto-moderno",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Estrategias y técnicas para la restauración ecológica de ecosistemas terrestres",
+      "tipo": "Curso",
+      "duracion": "25 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "18/08/2026",
+      "fecha_inicio_iso": "2026-08-18",
+      "url": "https://educacionvirtual.javeriana.edu.co/estrategias-y-tecnicas-para-la-restauracion-ecologica-de-ecosistemas-terrestres",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "¿Actuar lo contemporáneo? Distopías y sociedad actual",
+      "tipo": "Diplomado",
+      "duracion": "80 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "18/08/2026",
+      "fecha_inicio_iso": "2026-08-18",
+      "url": "https://educacionvirtual.javeriana.edu.co/actuar-lo-contemporaneo-distopias-y-sociedad-actual",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Analítica para la Inteligencia de Negocios",
+      "tipo": "Curso",
+      "duracion": "50 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "19/08/2026",
+      "fecha_inicio_iso": "2026-08-19",
+      "url": "https://educacionvirtual.javeriana.edu.co/analítica-para-la-inteligencia-de-negocios",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Meditación y Mindfulness: Curso práctico para restablecer la armonía interior",
+      "tipo": "Curso",
+      "duracion": "25 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "22/08/2026",
+      "fecha_inicio_iso": "2026-08-22",
+      "url": "https://educacionvirtual.javeriana.edu.co/meditacion-mindfulness-curso-practico-para-restablecer-la-armonia-interior",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Estética dental - Bucaramanga",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "22/08/2026",
+      "fecha_inicio_iso": "2026-08-22",
+      "url": "https://educacionvirtual.javeriana.edu.co/estética-dental",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Método Madre Canguro",
+      "tipo": "Diplomado",
+      "duracion": "120 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "24/08/2026",
+      "fecha_inicio_iso": "2026-08-24",
+      "url": "https://educacionvirtual.javeriana.edu.co/metodo-madre-canguro",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Animación experimental",
+      "tipo": "Diplomado",
+      "duracion": "138 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "25/08/2026",
+      "fecha_inicio_iso": "2026-08-25",
+      "url": "https://educacionvirtual.javeriana.edu.co/animación-experimental",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Entre flechas y corazones: historia del amor romántico en",
+      "tipo": "Curso",
+      "duracion": "48 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "25/08/2026",
+      "fecha_inicio_iso": "2026-08-25",
+      "url": "https://educacionvirtual.javeriana.edu.co/entre-flechas-y-corazones-historia-del-amor-romantico-en-occidente",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Neuroliderazgo, Neuromanagement y Culturas Brain Friendly",
+      "tipo": "Curso",
+      "duracion": "20 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "25/08/2026",
+      "fecha_inicio_iso": "2026-08-25",
+      "url": "https://educacionvirtual.javeriana.edu.co/neuroliderazgo-neuromanagement-y-culturas-brain-friendly",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Fundamentos en Gestión de Datos por medio de IA",
+      "tipo": "Diplomado",
+      "duracion": "80 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "25/08/2026",
+      "fecha_inicio_iso": "2026-08-25",
+      "url": "https://educacionvirtual.javeriana.edu.co/fundamentos-en-gestion-de-datos-por-medio-de-ia",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Diseño y gestión de redes logisticas",
+      "tipo": "Curso",
+      "duracion": "60 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "25/08/2026",
+      "fecha_inicio_iso": "2026-08-25",
+      "url": "https://educacionvirtual.javeriana.edu.co/diseno-y-gestion-de-redes-logisticas",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Scrum Product Owner preparación para la certificación profesional internacional de CertiProf®",
+      "tipo": "Curso",
+      "duracion": "24 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "25/08/2026",
+      "fecha_inicio_iso": "2026-08-25",
+      "url": "https://educacionvirtual.javeriana.edu.co/scrum-product-owner-preparacion-para-la-certificacion-profesional-internacional-de-certiprof®",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Alta Gerencia de Negocios Gastrónomicos",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "25/08/2026",
+      "fecha_inicio_iso": "2026-08-25",
+      "url": "https://educacionvirtual.javeriana.edu.co/alta-gerencia-de-negocios-gastronomicos",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Liderazgo Estratégico para la Toma de Decisiones",
+      "tipo": "Curso",
+      "duracion": "30 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "25/08/2026",
+      "fecha_inicio_iso": "2026-08-25",
+      "url": "https://educacionvirtual.javeriana.edu.co/el-poder-de-decidir-estrategicamente-liderazgo-inspirador-y-bienestar-para-directivos",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Inmersión Total: Desarrollo y Producción de Experiencias Interactivas",
+      "tipo": "Curso",
+      "duracion": "48 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "25/08/2026",
+      "fecha_inicio_iso": "2026-08-25",
+      "url": "https://educacionvirtual.javeriana.edu.co/desarrollo-produccion-experiencias",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Mentoring en Implementación de la Economía Circular y diseño de productos sostenibles",
+      "tipo": "Curso",
+      "duracion": "42 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "25/08/2026",
+      "fecha_inicio_iso": "2026-08-25",
+      "url": "https://educacionvirtual.javeriana.edu.co/implementacion-economia-circular",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Finanzas Verdes",
+      "tipo": "Curso",
+      "duracion": "56 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "25/08/2026",
+      "fecha_inicio_iso": "2026-08-25",
+      "url": "https://educacionvirtual.javeriana.edu.co/curso-de-finanzas-verdes",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Orar con los salmos",
+      "tipo": "Curso",
+      "duracion": "16 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "27/08/2026",
+      "fecha_inicio_iso": "2026-08-27",
+      "url": "https://educacionvirtual.javeriana.edu.co/orar-con-los-salmos",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Fotografía digital básica",
+      "tipo": "Curso",
+      "duracion": "45 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "27/08/2026",
+      "fecha_inicio_iso": "2026-08-27",
+      "url": "https://educacionvirtual.javeriana.edu.co/fotografia-digital",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Mindfulness con Énfasis en Educación",
+      "tipo": "Curso",
+      "duracion": "24 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "27/08/2026",
+      "fecha_inicio_iso": "2026-08-27",
+      "url": "https://educacionvirtual.javeriana.edu.co/mindfulness-enfasis-educacion",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Redacción y ortografía - Virtual",
+      "tipo": "Curso",
+      "duracion": "40 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "27/08/2026",
+      "fecha_inicio_iso": "2026-08-27",
+      "url": "https://educacionvirtual.javeriana.edu.co/redaccionyortografia",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Revisoría fiscal y auditoría financiera",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "27/08/2026",
+      "fecha_inicio_iso": "2026-08-27",
+      "url": "https://educacionvirtual.javeriana.edu.co/revisoria-fiscal-y-auditoria-financiera",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Gestión de Proyectos alineado al Estándar PMBoK y  potenciado con IA Generativa",
+      "tipo": "Diplomado",
+      "duracion": "120 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "28/08/2026",
+      "fecha_inicio_iso": "2026-08-28",
+      "url": "https://educacionvirtual.javeriana.edu.co/gestion-de-proyectos-alineado-al-estandar-pmbok-y-potenciado-con-ia-gen-diplomado",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Dirección Estratégica",
+      "tipo": "Diplomado",
+      "duracion": "99 Horas",
+      "nivel": "Avanzado",
+      "fecha_inicio": "28/08/2026",
+      "fecha_inicio_iso": "2026-08-28",
+      "url": "https://educacionvirtual.javeriana.edu.co/direccion-estrategica",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Excel Avanzado",
+      "tipo": "Curso",
+      "duracion": "49 Horas",
+      "nivel": "Avanzado",
+      "fecha_inicio": "28/08/2026",
+      "fecha_inicio_iso": "2026-08-28",
+      "url": "https://educacionvirtual.javeriana.edu.co/excel-avanzado",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Botánica Ilustrada: de sus Propiedades al Sketchbook",
+      "tipo": "Curso",
+      "duracion": "35 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "29/08/2026",
+      "fecha_inicio_iso": "2026-08-29",
+      "url": "https://educacionvirtual.javeriana.edu.co/botanica-ilustrada-sketchbook",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Pasaporte a los sueños",
+      "tipo": "Curso",
+      "duracion": "24 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "29/08/2026",
+      "fecha_inicio_iso": "2026-08-29",
+      "url": "https://educacionvirtual.javeriana.edu.co/pasaporte-a-los-suenos",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Decisiones y Acciones Educativas para la Implementación del Pacto Educativo Global",
+      "tipo": "Diplomado",
+      "duracion": "90 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "29/08/2026",
+      "fecha_inicio_iso": "2026-08-29",
+      "url": "https://educacionvirtual.javeriana.edu.co/decisiones-y-acciones-educativas-para-la-implementacion-del-pacto-educativo-global",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Epidemiología Clínica y Salud Pública",
+      "tipo": "Diplomado",
+      "duracion": "116 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "31/08/2026",
+      "fecha_inicio_iso": "2026-08-31",
+      "url": "https://educacionvirtual.javeriana.edu.co/epidemiologia-clinica-y-salud-publica",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Excel, Access y Power BI para el Análisis de Información y la Generación de Reportes Efectivos",
+      "tipo": "Curso",
+      "duracion": "60 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "01/09/2026",
+      "fecha_inicio_iso": "2026-09-01",
+      "url": "https://educacionvirtual.javeriana.edu.co/excel-access-y-power-bi-p",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Arquitectura del Paisaje",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "01/09/2026",
+      "fecha_inicio_iso": "2026-09-01",
+      "url": "https://educacionvirtual.javeriana.edu.co/arquitectura-del-paisaje",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "MUSIC MASTERS: NEGOCIOS DE LA MÚSICA Y EL ENTRETENIMIENTO",
+      "tipo": "Diplomado",
+      "duracion": "120 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "01/09/2026",
+      "fecha_inicio_iso": "2026-09-01",
+      "url": "https://educacionvirtual.javeriana.edu.co/music-masters-negocios-de-la-musica-y-el-entretenimiento",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Escuela de la nueva longevidad: vivir con propósito Experiencia 1",
+      "tipo": "Curso",
+      "duracion": "30 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "01/09/2026",
+      "fecha_inicio_iso": "2026-09-01",
+      "url": "https://educacionvirtual.javeriana.edu.co/experiencia-1",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Escuela de la nueva longevidad: vivir con propósito Experiencia 2",
+      "tipo": "Curso",
+      "duracion": "30 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "01/09/2026",
+      "fecha_inicio_iso": "2026-09-01",
+      "url": "https://educacionvirtual.javeriana.edu.co/escuela-de-la-nueva-longevidad-vivir-con-proposito-expriencia-2",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Planes de Saneamiento",
+      "tipo": "Curso",
+      "duracion": "12 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "01/09/2026",
+      "fecha_inicio_iso": "2026-09-01",
+      "url": "https://educacionvirtual.javeriana.edu.co/planes-de-saneamiento",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "ODONTOLOGÍA AMBIENTALMENTE SOSTENIBLE Salud oral consciente que cuida sonrisas y cuida el planeta",
+      "tipo": "Curso",
+      "duracion": "30 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "01/09/2026",
+      "fecha_inicio_iso": "2026-09-01",
+      "url": "https://educacionvirtual.javeriana.edu.co/odontologia-ambientalmente-sostenible-salud-oral-consciente-que-cuida-sonrisas-y-cuida-el-planeta",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Urgencias Medicas",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "01/09/2026",
+      "fecha_inicio_iso": "2026-09-01",
+      "url": "https://educacionvirtual.javeriana.edu.co/urgencias-medicas",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Yemen y la Arabia olvidada.  De la reina de Saba a las geopolíticas del siglo XXI",
+      "tipo": "Curso",
+      "duracion": "18 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "01/09/2026",
+      "fecha_inicio_iso": "2026-09-01",
+      "url": "https://educacionvirtual.javeriana.edu.co/yemen-y-la-arabia-olvidada-de-la-reina-de-saba-a-las-geopoliticas-del-siglo-xxi",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Métodos de Resolución de Conflictos en Proyectos de Infraestructura",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "01/09/2026",
+      "fecha_inicio_iso": "2026-09-01",
+      "url": "https://educacionvirtual.javeriana.edu.co/metodos-de-resolucion-de-conflictos-en-proyectos-de-infraestructura",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Curso I: Soporte Metabólico y Nutricional Pediátrico",
+      "tipo": "Curso",
+      "duracion": "29 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "01/09/2026",
+      "fecha_inicio_iso": "2026-09-01",
+      "url": "https://educacionvirtual.javeriana.edu.co/curso-i-soporte-metabolico-y-nutricional-pediatrico",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Indicadores de Gestión en Comunicación y Datos para Estrategias de Comunicación",
+      "tipo": "Curso",
+      "duracion": "24 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "02/09/2026",
+      "fecha_inicio_iso": "2026-09-02",
+      "url": "https://educacionvirtual.javeriana.edu.co/indicadores-de-gestion-y-comunicacion",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Nutrición para la actividad física",
+      "tipo": "Curso",
+      "duracion": "40 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "02/09/2026",
+      "fecha_inicio_iso": "2026-09-02",
+      "url": "https://educacionvirtual.javeriana.edu.co/nutricion-para-la-actividad-fisica",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Educación ambiental, interculturalidad y sostenibilidad",
+      "tipo": "Diplomado",
+      "duracion": "95 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "03/09/2026",
+      "fecha_inicio_iso": "2026-09-03",
+      "url": "https://educacionvirtual.javeriana.edu.co/educacion-ambiental-interculturalidad-y-sostenibilidad-95",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Gestión de la Calidad del Laboratorio con Énfasis en Bancos de Sangre",
+      "tipo": "Diplomado",
+      "duracion": "120 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "03/09/2026",
+      "fecha_inicio_iso": "2026-09-03",
+      "url": "https://educacionvirtual.javeriana.edu.co/gestioncalidadlaboratoriosangre",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Gestión de la calidad del laboratorio con énfasis en laboratorios clínicos",
+      "tipo": "Diplomado",
+      "duracion": "120 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "03/09/2026",
+      "fecha_inicio_iso": "2026-09-03",
+      "url": "https://educacionvirtual.javeriana.edu.co/gestioncalidadlaboratorio",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Derecho penal canónico",
+      "tipo": "Diplomado",
+      "duracion": "120 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "03/09/2026",
+      "fecha_inicio_iso": "2026-09-03",
+      "url": "https://educacionvirtual.javeriana.edu.co/derecho-penal-canonico",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Alta Gerencia Aeronáutica (AGA)",
+      "tipo": "Curso",
+      "duracion": "36 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "03/09/2026",
+      "fecha_inicio_iso": "2026-09-03",
+      "url": "https://educacionvirtual.javeriana.edu.co/alta-gerencia-aeronautica-aga",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Lectura crítica",
+      "tipo": "Curso",
+      "duracion": "40 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "03/09/2026",
+      "fecha_inicio_iso": "2026-09-03",
+      "url": "https://educacionvirtual.javeriana.edu.co/lectura-critica",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Marketing Digital con IA en Alianza con la Cámara de Comercio de Villavicencio",
+      "tipo": "Diplomado",
+      "duracion": "90 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "04/09/2026",
+      "fecha_inicio_iso": "2026-09-04",
+      "url": "https://educacionvirtual.javeriana.edu.co/marketing-digital-con-ia",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Erotismo, sexualidad y espiritualidad. El placer sagrado como fuente de crecimiento",
+      "tipo": "Curso",
+      "duracion": "12 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "05/09/2026",
+      "fecha_inicio_iso": "2026-09-05",
+      "url": "https://educacionvirtual.javeriana.edu.co/erotismo-sexualidad-y-espiritualidad",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Gestión de Proyectos con Microsoft® Project",
+      "tipo": "Curso",
+      "duracion": "20 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "07/09/2026",
+      "fecha_inicio_iso": "2026-09-07",
+      "url": "https://educacionvirtual.javeriana.edu.co/proyectos-con-microsoft-project",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Arquitectura Interior",
+      "tipo": "Diplomado",
+      "duracion": "126 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "07/09/2026",
+      "fecha_inicio_iso": "2026-09-07",
+      "url": "https://educacionvirtual.javeriana.edu.co/arquitectura-interior",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Modelos financieros en la era del machine learning",
+      "tipo": "Curso",
+      "duracion": "21 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "07/09/2026",
+      "fecha_inicio_iso": "2026-09-07",
+      "url": "https://educacionvirtual.javeriana.edu.co/modelos-financieros-en-la-era-del-machine-learning",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Administración De restaurantes - Pereira",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "07/09/2026",
+      "fecha_inicio_iso": "2026-09-07",
+      "url": "https://educacionvirtual.javeriana.edu.co/administración-de-restaurantes-eje-cafetero",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Regulación, mercado y transición energética del sector eléctrico colombiano",
+      "tipo": "Diplomado",
+      "duracion": "122 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "08/09/2026",
+      "fecha_inicio_iso": "2026-09-08",
+      "url": "https://educacionvirtual.javeriana.edu.co/regulacion-mercado-y-transicion-energetica-del-sector-electrico-colombiano",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Club Sapiencia - Bogotá",
+      "tipo": "Curso",
+      "duracion": "40 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "08/09/2026",
+      "fecha_inicio_iso": "2026-09-08",
+      "url": "https://educacionvirtual.javeriana.edu.co/club-sapiencia",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Preparación Renta Para Personas Naturales",
+      "tipo": "Curso",
+      "duracion": "18 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "08/09/2026",
+      "fecha_inicio_iso": "2026-09-08",
+      "url": "https://educacionvirtual.javeriana.edu.co/preparacion-personas-naturales",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Salud y Seguridad en el Trabajo SG-SST",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "08/09/2026",
+      "fecha_inicio_iso": "2026-09-08",
+      "url": "https://educacionvirtual.javeriana.edu.co/salud-y-seguridad-en-el-trabajo-sg-sst",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Huella de carbono en el sector constructor",
+      "tipo": "Curso",
+      "duracion": "42 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "08/09/2026",
+      "fecha_inicio_iso": "2026-09-08",
+      "url": "https://educacionvirtual.javeriana.edu.co/huella-de-carbono-en-el-sector-constructor",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Inversiones Sostenibles y Economía Circular",
+      "tipo": "Curso",
+      "duracion": "24 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "08/09/2026",
+      "fecha_inicio_iso": "2026-09-08",
+      "url": "https://educacionvirtual.javeriana.edu.co/inversiones-sostenibles-y-economia-circular",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "El poder de acompañar: Crianza y conexión",
+      "tipo": "Curso",
+      "duracion": "26 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "08/09/2026",
+      "fecha_inicio_iso": "2026-09-08",
+      "url": "https://educacionvirtual.javeriana.edu.co/crianza-y-conexion-el-poder-de-acompañar",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Metodologías de formación musical",
+      "tipo": "Diplomado",
+      "duracion": "108 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "08/09/2026",
+      "fecha_inicio_iso": "2026-09-08",
+      "url": "https://educacionvirtual.javeriana.edu.co/metodologias-de-formacion-musical-diplomado",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Negocios de Bebidas: Estrategia, Marca y Crecimiento",
+      "tipo": "Diplomado",
+      "duracion": "80 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "08/09/2026",
+      "fecha_inicio_iso": "2026-09-08",
+      "url": "https://educacionvirtual.javeriana.edu.co/negocios-de-bebidas-estrategia-marca-y-crecimiento",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Compliance",
+      "tipo": "Diplomado",
+      "duracion": "120 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "10/09/2026",
+      "fecha_inicio_iso": "2026-09-10",
+      "url": "https://educacionvirtual.javeriana.edu.co/compliance",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Comercio Exterior, Derecho Aduanero y Emprendimiento",
+      "tipo": "Diplomado",
+      "duracion": "120 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "10/09/2026",
+      "fecha_inicio_iso": "2026-09-10",
+      "url": "https://educacionvirtual.javeriana.edu.co/comercio-exterior-derecho-aduanero-y-emprendimiento",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Régimen tributario Colombiano: Teoría y práctica",
+      "tipo": "Diplomado",
+      "duracion": "120 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "10/09/2026",
+      "fecha_inicio_iso": "2026-09-10",
+      "url": "https://educacionvirtual.javeriana.edu.co/regimen-tributario-colombiano",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Formación de Coordinadores para Point of Care Testing - POCT",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "10/09/2026",
+      "fecha_inicio_iso": "2026-09-10",
+      "url": "https://educacionvirtual.javeriana.edu.co/formacioncoordinacionpointcare",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Cómo Escribir y Publicar en Ciencias de la Salud",
+      "tipo": "Curso",
+      "duracion": "30 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "10/09/2026",
+      "fecha_inicio_iso": "2026-09-10",
+      "url": "https://educacionvirtual.javeriana.edu.co/escribirencienciassalud",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Alta Gerencia y Dirección Estratégica - Oriente",
+      "tipo": "Diplomado",
+      "duracion": "81 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "11/09/2026",
+      "fecha_inicio_iso": "2026-09-11",
+      "url": "https://educacionvirtual.javeriana.edu.co/alta-gerencia-y-direccion-estrategica-oriente",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Habilidades de Liderazgo y Dirección",
+      "tipo": "Diplomado",
+      "duracion": "120 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "11/09/2026",
+      "fecha_inicio_iso": "2026-09-11",
+      "url": "https://educacionvirtual.javeriana.edu.co/liderazgo-y-direccion",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Terapias Artísticas y Educación",
+      "tipo": "Diplomado",
+      "duracion": "110 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "12/09/2026",
+      "fecha_inicio_iso": "2026-09-12",
+      "url": "https://educacionvirtual.javeriana.edu.co/terapias-artisticas-y-educacion",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Actualización integral en detección temprana del cáncer de cuello uterino: Toma de Citología Cervicouterina y Prueba de ADN–VPH.",
+      "tipo": "Curso",
+      "duracion": "6 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "12/09/2026",
+      "fecha_inicio_iso": "2026-09-12",
+      "url": "https://educacionvirtual.javeriana.edu.co/toma-de-citologia-cervicouterina-y-prueba-de-adn-vph",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Planificación de cirugia guiada",
+      "tipo": "Curso",
+      "duracion": "30 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "12/09/2026",
+      "fecha_inicio_iso": "2026-09-12",
+      "url": "https://educacionvirtual.javeriana.edu.co/planificacion-de-cirugia-guiada",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Laboratorio de creación de personaje dramático a partir del mito y la tragedia griega",
+      "tipo": "Curso",
+      "duracion": "42 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "14/09/2026",
+      "fecha_inicio_iso": "2026-09-14",
+      "url": "https://educacionvirtual.javeriana.edu.co/laboratorio-de-creacion-de-personaje-dramatico-a-partir-del-mito-y-la-tragedia-griega",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Automatización Robótica de Procesos RPA: Fundamentos e Implementación",
+      "tipo": "Curso",
+      "duracion": "40 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "14/09/2026",
+      "fecha_inicio_iso": "2026-09-14",
+      "url": "https://educacionvirtual.javeriana.edu.co/automatizacion-robotica-procesos-rpa",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Las raíces del amor: formación para la vida matrimonial",
+      "tipo": "Curso",
+      "duracion": "56 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "14/09/2026",
+      "fecha_inicio_iso": "2026-09-14",
+      "url": "https://educacionvirtual.javeriana.edu.co/las-raices-del-amor-formacion-para-la-vida-matrimonial",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "NIIF - Normas Internacionales de Información Financiera",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "14/09/2026",
+      "fecha_inicio_iso": "2026-09-14",
+      "url": "https://educacionvirtual.javeriana.edu.co/niif",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Administración y planeación parroquial",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "15/09/2026",
+      "fecha_inicio_iso": "2026-09-15",
+      "url": "https://educacionvirtual.javeriana.edu.co/administracion-y-planeacion-parroquial",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Derecho del Entretenimiento:  Audiovisual, Música y Espectáculos Públicos",
+      "tipo": "Curso",
+      "duracion": "40 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "15/09/2026",
+      "fecha_inicio_iso": "2026-09-15",
+      "url": "https://educacionvirtual.javeriana.edu.co/derecho-del-entretenimiento-audiovisual-musica-y-espectaculos-publicos-",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Estructuración Financiera de Proyectos Inmobiliarios: Guía para Arquitectos",
+      "tipo": "Curso",
+      "duracion": "50 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "15/09/2026",
+      "fecha_inicio_iso": "2026-09-15",
+      "url": "https://educacionvirtual.javeriana.edu.co/estructuracion-financiera-de-proyectos",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Alta gerencia de empresas hoteleras y de alojamiento",
+      "tipo": "Diplomado",
+      "duracion": "104 Horas",
+      "nivel": "Avanzado",
+      "fecha_inicio": "15/09/2026",
+      "fecha_inicio_iso": "2026-09-15",
+      "url": "https://educacionvirtual.javeriana.edu.co/alta-gerencia-de-direccion-de-empresas-hoteleras",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "De la intención musical al gesto: consciencia corporal para la dirección coral",
+      "tipo": "Curso",
+      "duracion": "8 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "15/09/2026",
+      "fecha_inicio_iso": "2026-09-15",
+      "url": "https://educacionvirtual.javeriana.edu.co/de-la-intencion-musical-al-gesto-consciencia-corporal-para-la-direccion-coral",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Repertorios para el encuentro: Selección, creación y arreglo para coros en formación",
+      "tipo": "Curso",
+      "duracion": "8 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "15/09/2026",
+      "fecha_inicio_iso": "2026-09-15",
+      "url": "https://educacionvirtual.javeriana.edu.co/repertorios-para-el-encuentro-seleccion-creacion-y-arreglo-para-coros-en-formacion",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Gerencia de mercadeo y ventas - en Alianza con la Cámara de Comercio de Bucaramanga",
+      "tipo": "Diplomado",
+      "duracion": "90 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "15/09/2026",
+      "fecha_inicio_iso": "2026-09-15",
+      "url": "https://educacionvirtual.javeriana.edu.co/gerencia-de-mercadeo-y-ventas",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Gerencia de Mercadeo y Ventas",
+      "tipo": "Diplomado",
+      "duracion": "120 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "15/09/2026",
+      "fecha_inicio_iso": "2026-09-15",
+      "url": "https://educacionvirtual.javeriana.edu.co/gerencia-mercadeo-ventas",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Neuroergonomía: habilidades cognitivas para fortalecer la productividad en las organizaciones",
+      "tipo": "Curso",
+      "duracion": "24 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "15/09/2026",
+      "fecha_inicio_iso": "2026-09-15",
+      "url": "https://educacionvirtual.javeriana.edu.co/neuroergonomia-habilidades-cognitivas-para-fortalecer",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Inteligencia Financiera: Del Modelado de Datos a la Estrategia Ejecutiva",
+      "tipo": "Diplomado",
+      "duracion": "80 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "15/09/2026",
+      "fecha_inicio_iso": "2026-09-15",
+      "url": "https://educacionvirtual.javeriana.edu.co/inteligencia-financiera-del-modelado-de-datos-a-la-estrategia-ejecutiva",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Administración de Restaurantes",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "15/09/2026",
+      "fecha_inicio_iso": "2026-09-15",
+      "url": "https://educacionvirtual.javeriana.edu.co/administracion-de-restaurantes",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Gerencia e Innovación de Procesos 4.0",
+      "tipo": "Diplomado",
+      "duracion": "80 Horas",
+      "nivel": "Avanzado",
+      "fecha_inicio": "15/09/2026",
+      "fecha_inicio_iso": "2026-09-15",
+      "url": "https://educacionvirtual.javeriana.edu.co/gerencia-innovacion-procesos",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Estructuración y Financiación de Proyectos de Impacto ESG (Ambiental, Social y de Gobernanza)",
+      "tipo": "Curso",
+      "duracion": "40 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "15/09/2026",
+      "fecha_inicio_iso": "2026-09-15",
+      "url": "https://educacionvirtual.javeriana.edu.co/proyectos-impacto-esg",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Analítica de Datos por medio de IA aplicada",
+      "tipo": "Diplomado",
+      "duracion": "80 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "15/09/2026",
+      "fecha_inicio_iso": "2026-09-15",
+      "url": "https://educacionvirtual.javeriana.edu.co/analitica-de-datos-por-medio-de-ia-aplicada",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Series de Tiempo para la Toma de Decisiones: Un Enfoque Aplicado con STATA",
+      "tipo": "Curso",
+      "duracion": "40 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "15/09/2026",
+      "fecha_inicio_iso": "2026-09-15",
+      "url": "https://educacionvirtual.javeriana.edu.co/series-de-tiempo-para-la-toma-de-decisiones-un-enfoque-aplicado-con-stata",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Régimen de Propiedad Horizontal:  Fundamentos, Gestión y Resolución de Conflictos bajo la Ley 675 de 2001",
+      "tipo": "Curso",
+      "duracion": "60 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "15/09/2026",
+      "fecha_inicio_iso": "2026-09-15",
+      "url": "https://educacionvirtual.javeriana.edu.co/regimen-de-propiedad-horizontal-fundamentos-gestion-y-resolucion-de-conflictos-bajo-la-ley-675-de-2001",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Derecho Ambiental y sostenibilidad",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "15/09/2026",
+      "fecha_inicio_iso": "2026-09-15",
+      "url": "https://educacionvirtual.javeriana.edu.co/derechoambiental",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Como crear habitos y sostener el tratamiento",
+      "tipo": "Curso",
+      "duracion": "20 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "16/09/2026",
+      "fecha_inicio_iso": "2026-09-16",
+      "url": "https://educacionvirtual.javeriana.edu.co/como-crear-habitos-y-sostener-el-tratamiento",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Derecho Disciplinario Reforma Ley 1952 y Ley 2094",
+      "tipo": "Diplomado",
+      "duracion": "80 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "17/09/2026",
+      "fecha_inicio_iso": "2026-09-17",
+      "url": "https://educacionvirtual.javeriana.edu.co/derecho-disciplinario-reforma-ley-1952-y-ley-2094",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Medicina de Precisión en Odontología",
+      "tipo": "Curso",
+      "duracion": "30 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "17/09/2026",
+      "fecha_inicio_iso": "2026-09-17",
+      "url": "https://educacionvirtual.javeriana.edu.co/medicina-de-precision-en-odontologia",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Dirección de arte para teatro",
+      "tipo": "Curso",
+      "duracion": "18 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "18/09/2026",
+      "fecha_inicio_iso": "2026-09-18",
+      "url": "https://educacionvirtual.javeriana.edu.co/direccion-arte-teatro",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Contabilidad de Coberturas",
+      "tipo": "Seminario",
+      "duracion": "16 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "21/09/2026",
+      "fecha_inicio_iso": "2026-09-21",
+      "url": "https://educacionvirtual.javeriana.edu.co/contabilidad-de-coberturas",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Educación Inclusiva: nuevos caminos para la atención educativa a población con discapacidad",
+      "tipo": "Diplomado",
+      "duracion": "80 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "21/09/2026",
+      "fecha_inicio_iso": "2026-09-21",
+      "url": "https://educacionvirtual.javeriana.edu.co/educacion-inclusiva",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Enfermedad Periodontal y Peri-implantar: Clasificación y Abordaje Clínico",
+      "tipo": "Curso",
+      "duracion": "16 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "21/09/2026",
+      "fecha_inicio_iso": "2026-09-21",
+      "url": "https://educacionvirtual.javeriana.edu.co/enfermedad-periodontal-y-periimplantar-clasificacion",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Certificación en Psicología Positiva - Bienestar individual y ambientes positivos",
+      "tipo": "Curso",
+      "duracion": "42 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "21/09/2026",
+      "fecha_inicio_iso": "2026-09-21",
+      "url": "https://educacionvirtual.javeriana.edu.co/certificación-en-psicología-positiva-bienestar-individual-y-ambientes-positivos",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Stage manager: producción y operación de eventos en vivo",
+      "tipo": "Curso",
+      "duracion": "30 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "22/09/2026",
+      "fecha_inicio_iso": "2026-09-22",
+      "url": "https://educacionvirtual.javeriana.edu.co/stage-manager-produccion-y-operacion-de-eventos-en-vivo",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Gestión de proyectos con enfoque en desarrollo territorial",
+      "tipo": "Diplomado",
+      "duracion": "120 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "22/09/2026",
+      "fecha_inicio_iso": "2026-09-22",
+      "url": "https://educacionvirtual.javeriana.edu.co/gestiondeproyectosconenfoqueendesarrolloterritorial",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Inglés Legal - Introducción al Sistema Legal de los EEUU",
+      "tipo": "Curso",
+      "duracion": "50 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "22/09/2026",
+      "fecha_inicio_iso": "2026-09-22",
+      "url": "https://educacionvirtual.javeriana.edu.co/ingles-legal",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Bootcamp IA para Líderes Empresariales: Aplicación, Estrategia y Gobernanza",
+      "tipo": "Curso",
+      "duracion": "30 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "22/09/2026",
+      "fecha_inicio_iso": "2026-09-22",
+      "url": "https://educacionvirtual.javeriana.edu.co/ia-para-lideres-empresariales",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Gerencia Estratégica de Turismo - Pasto",
+      "tipo": "Diplomado",
+      "duracion": "90 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "22/09/2026",
+      "fecha_inicio_iso": "2026-09-22",
+      "url": "https://educacionvirtual.javeriana.edu.co/gerencia-estrategica-de-turismo",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Curso y taller práctico de marketing legal",
+      "tipo": "Curso",
+      "duracion": "20 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "22/09/2026",
+      "fecha_inicio_iso": "2026-09-22",
+      "url": "https://educacionvirtual.javeriana.edu.co/curso-y-taller-practico-de-marketing-legal",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Customer experience: El desafío de generar experiencias inolvidables",
+      "tipo": "Curso",
+      "duracion": "16 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "22/09/2026",
+      "fecha_inicio_iso": "2026-09-22",
+      "url": "https://educacionvirtual.javeriana.edu.co/customer-experience-el-desafío-de-generar-experiencias-inolvidables",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Universo Extremo: Astronomía, Relatividad y Cosmología",
+      "tipo": "Curso",
+      "duracion": "42 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "22/09/2026",
+      "fecha_inicio_iso": "2026-09-22",
+      "url": "https://educacionvirtual.javeriana.edu.co/universo-extremo-astronomia-relatividad-y-cosmologia",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Inversiones y Mercado de Capitales",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "22/09/2026",
+      "fecha_inicio_iso": "2026-09-22",
+      "url": "https://educacionvirtual.javeriana.edu.co/inversiones-y-mercado-de-capitales",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Operación de centros de distribución y última milla",
+      "tipo": "Curso",
+      "duracion": "60 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "22/09/2026",
+      "fecha_inicio_iso": "2026-09-22",
+      "url": "https://educacionvirtual.javeriana.edu.co/operacion-de-centros-de-distribucion-y-ultima-milla",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Actualización Tributaria",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "22/09/2026",
+      "fecha_inicio_iso": "2026-09-22",
+      "url": "https://educacionvirtual.javeriana.edu.co/actualizacion-tributaria",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Microsoft Power BI con Inteligencia Artificial",
+      "tipo": "Curso",
+      "duracion": "40 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "23/09/2026",
+      "fecha_inicio_iso": "2026-09-23",
+      "url": "https://educacionvirtual.javeriana.edu.co/microsoft-power-bi-con-inteligencia-artificial",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Inteligencia artificial y agentes autónomos para la Edificación de Vivienda en Colombia",
+      "tipo": "Curso",
+      "duracion": "20 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "23/09/2026",
+      "fecha_inicio_iso": "2026-09-23",
+      "url": "https://educacionvirtual.javeriana.edu.co/inteligencia-artificial-y-agentes-autonomos-para-la-edificacion-de-vivienda-en-colombia",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Derecho matrimonial canónico",
+      "tipo": "Diplomado",
+      "duracion": "140 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "24/09/2026",
+      "fecha_inicio_iso": "2026-09-24",
+      "url": "https://educacionvirtual.javeriana.edu.co/derecho-matrimonial-canónico",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Contratación Estatal Régimen general Actualizado con la normativa, jurisprudencia y conceptos",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "24/09/2026",
+      "fecha_inicio_iso": "2026-09-24",
+      "url": "https://educacionvirtual.javeriana.edu.co/contratacion-estatal",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Ética y cultura del trabajo en las organizaciones",
+      "tipo": "Curso",
+      "duracion": "18 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "24/09/2026",
+      "fecha_inicio_iso": "2026-09-24",
+      "url": "https://educacionvirtual.javeriana.edu.co/etica-y-cultura-del-trabajo-en-las-organizaciones",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Administración del Riesgo y Auditoría Forense",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "24/09/2026",
+      "fecha_inicio_iso": "2026-09-24",
+      "url": "https://educacionvirtual.javeriana.edu.co/administracion-riesgo-y-auditoria-forense",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Control y Auditoría Interna",
+      "tipo": "Diplomado",
+      "duracion": "100 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "24/09/2026",
+      "fecha_inicio_iso": "2026-09-24",
+      "url": "https://educacionvirtual.javeriana.edu.co/control-y-auditoria-interna",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Argumentación Jurídica",
+      "tipo": "Curso",
+      "duracion": "40 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "24/09/2026",
+      "fecha_inicio_iso": "2026-09-24",
+      "url": "https://educacionvirtual.javeriana.edu.co/argumentacion-juridica",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Gestión de riesgo reputacional y manejo de crisis - Medellín",
+      "tipo": "Curso",
+      "duracion": "24 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "24/09/2026",
+      "fecha_inicio_iso": "2026-09-24",
+      "url": "https://educacionvirtual.javeriana.edu.co/gestion-de-riesgo-reputacional-y-manejo-de-crisis-antioquia",
+      "inscripcion_continua": true
+    },
+    {
+      "titulo": "Crianza y Educación Consciente",
+      "tipo": "Curso",
+      "duracion": "20 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "24/09/2026",
+      "fecha_inicio_iso": "2026-09-24",
+      "url": "https://educacionvirtual.javeriana.edu.co/crianza-y-educacion-consciente-oriente",
+      "inscripcion_continua": true
+    },
+    {
       "titulo": "SECOP II",
       "tipo": "Curso",
       "duracion": "8 Horas",
@@ -820,6 +2320,15 @@
       "url": "https://educacionvirtual.javeriana.edu.co/cromatografia-liquida"
     },
     {
+      "titulo": "Gerencia e Innovación de Procesos 4.0 Alianza con la Cámara de Comercio de Bucaramanga",
+      "tipo": "Diplomado",
+      "duracion": "80 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "13/10/2026",
+      "fecha_inicio_iso": "2026-10-13",
+      "url": "https://educacionvirtual.javeriana.edu.co/gerencia-e-innovacion-de-procesos-4.0"
+    },
+    {
       "titulo": "NIIF - Normas Internacionales de Información Financiera - Alianza con la Camara de comercio de Ibague",
       "tipo": "Diplomado",
       "duracion": "83 Horas",
@@ -1241,6 +2750,15 @@
       "fecha_inicio": "03/11/2026",
       "fecha_inicio_iso": "2026-11-03",
       "url": "https://educacionvirtual.javeriana.edu.co/certificacion-y-tecnicas-basicas-de-grabacion-y-mezcla-en-consola-yamaha-dm7"
+    },
+    {
+      "titulo": "Monitoreo de la restauración ecológica",
+      "tipo": "Curso",
+      "duracion": "25 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "09/11/2026",
+      "fecha_inicio_iso": "2026-11-09",
+      "url": "https://educacionvirtual.javeriana.edu.co/monitoreo-de-la-restauracion-ecologica"
     },
     {
       "titulo": "Inteligencia artificial con enfoque en ciencia e investigación",
