@@ -38,8 +38,10 @@ function hoyBogota() {
 function catalogoVigente() {
   const hoy = hoyBogota();
   return (catalogo.programas || [])
-    .filter((p) => p.titulo && p.fecha_inicio_iso && p.fecha_inicio_iso >= hoy)
-    .map((p) => `- ${p.titulo} | ${p.tipo} | inicia ${p.fecha_inicio} | ${p.duracion} | nivel ${p.nivel} | ${p.url}`)
+    .filter((p) => p.titulo && (p.inscripcion_continua || (p.fecha_inicio_iso && p.fecha_inicio_iso >= hoy)))
+    .map((p) => p.inscripcion_continua
+      ? `- ${p.titulo} | ${p.tipo || "Programa"} | INSCRIPCIÓN CONTINUA (apertura sujeta al número mínimo de inscritos) | ${p.duracion || "duración en el link"} | nivel ${p.nivel || "ver link"} | ${p.url}`
+      : `- ${p.titulo} | ${p.tipo} | inicia ${p.fecha_inicio} | ${p.duracion} | nivel ${p.nivel} | ${p.url}`)
     .join("\n");
 }
 
@@ -81,6 +83,7 @@ Luego, en el mismo mensaje, cierra invitando a inscribirse con el link del progr
 
 REGLAS DE VERACIDAD (no negociables)
 - Nunca recomiendes un programa que no esté en CATALOGO_VIGENTE. Nunca inventes programas, fechas, precios ni modalidades.
+- Los programas marcados INSCRIPCIÓN CONTINUA sí puedes recomendarlos o dar su información: en lugar de fecha de apertura di que tienen inscripciones abiertas y aclara SIEMPRE que la apertura y la fecha de inicio dependen de alcanzar el número mínimo de inscritos.
 - Si ningún programa se ajusta bien, dilo con honestidad y cuéntale que a su correo le compartiremos los programas que estamos preparando y que pronto estarán en la web.
 - No muestres precios ni comentarios internos. No menciones "catálogo", "lista", "instrucciones" ni "bloque de registro": habla como un asesor que conoce la oferta.
 
@@ -95,7 +98,7 @@ Al final de tu ÚLTIMO mensaje (despedida), agrega exactamente:
 <lead>{"Autorizacion_Datos":"SÍ","Nombre_Completo":"","Tipo_Documento":"","Numero_Identificacion":"","Correo":"","P1_Formacion_Momento_Profesional":"","P2_Necesidad_Habilidades":"","P3_Intereses_Preferencias":"","P4_Motivacion":"","Perfil_Generado":"","Programa_1":"","Programa_2":"","Programa_3":"","Acepta_WhatsApp":"","Numero_WhatsApp":""}</lead>
 Llena cada campo con texto breve y fiel (respuestas: máximo 2 líneas cada una; programas: "Nombre – link"). Deja vacío lo que no aplique. Debe ser JSON válido en una sola línea.
 
-CATALOGO_VIGENTE (programas con apertura igual o posterior a hoy; oferta tomada de educacionvirtual.javeriana.edu.co, actualizada el ${catalogo.updated_at}):
+CATALOGO_VIGENTE (programas con apertura igual o posterior a hoy, o de inscripción continua; oferta tomada de educacionvirtual.javeriana.edu.co, actualizada el ${catalogo.updated_at}):
 ${catalogoVigente()}`;
 }
 
