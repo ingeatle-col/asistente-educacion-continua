@@ -1,26 +1,6 @@
 {
   "programas": [
     {
-      "titulo": "DJ performance y live act profesional: Técnicas de mezcla, setups avanzados y control MIDI",
-      "tipo": "Curso",
-      "duracion": "36 Horas",
-      "nivel": "Avanzado",
-      "fecha_inicio": "30/06/2026",
-      "fecha_inicio_iso": "2026-06-30",
-      "url": "https://educacionvirtual.javeriana.edu.co/dj-performance-y-live-act-profesional-técnicas-de-mezcla-setups-avanzados-y-control-midi",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Creación e ilustración de personajes para jóvenes",
-      "tipo": "Taller",
-      "duracion": "15 Horas",
-      "nivel": "Básico",
-      "fecha_inicio": "06/07/2026",
-      "fecha_inicio_iso": "2026-07-06",
-      "url": "https://educacionvirtual.javeriana.edu.co/taller-de-creación-e-ilustracion-de-personajes-para-jovenes",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Mindfulness con énfasis en educación Oriente",
       "tipo": "Curso",
       "duracion": "20 Horas",
@@ -28,16 +8,6 @@
       "fecha_inicio": "09/07/2026",
       "fecha_inicio_iso": "2026-07-09",
       "url": "https://educacionvirtual.javeriana.edu.co/mindfulness-con-enfasis-en-educacion-oriente",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Derecho Laboral - Sur Occidente con alianza S&D Soluciones y Desarrollo S.A.S",
-      "tipo": "Diplomado",
-      "duracion": "100 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "21/07/2026",
-      "fecha_inicio_iso": "2026-07-21",
-      "url": "https://educacionvirtual.javeriana.edu.co/derecho-laboral-sur-occidente",
       "inscripcion_continua": true
     },
     {
@@ -891,16 +861,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Negocios de Bebidas: Estrategia, Marca y Crecimiento",
-      "tipo": "Diplomado",
-      "duracion": "80 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "08/09/2026",
-      "fecha_inicio_iso": "2026-09-08",
-      "url": "https://educacionvirtual.javeriana.edu.co/negocios-de-bebidas-estrategia-marca-y-crecimiento",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Compliance",
       "tipo": "Diplomado",
       "duracion": "120 Horas",
@@ -1341,16 +1301,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Curso y taller práctico de marketing legal",
-      "tipo": "Curso",
-      "duracion": "20 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "22/09/2026",
-      "fecha_inicio_iso": "2026-09-22",
-      "url": "https://educacionvirtual.javeriana.edu.co/curso-y-taller-practico-de-marketing-legal",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Customer experience: El desafío de generar experiencias inolvidables",
       "tipo": "Curso",
       "duracion": "16 Horas",
@@ -1507,7 +1457,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "25/09/2026",
       "fecha_inicio_iso": "2026-09-25",
-      "url": "https://educacionvirtual.javeriana.edu.co/secop"
+      "url": "https://educacionvirtual.javeriana.edu.co/secop",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Bootcamp IA para líderes empresariales - Medellín",
@@ -1516,7 +1467,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "25/09/2026",
       "fecha_inicio_iso": "2026-09-25",
-      "url": "https://educacionvirtual.javeriana.edu.co/bootcamp-ia-para-lideres-empresariales"
+      "url": "https://educacionvirtual.javeriana.edu.co/bootcamp-ia-para-lideres-empresariales",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Oficial de cumplimiento integral: Gobierno, control, riesgos y ética empresarial una formación especializada para liderar el cumplimiento en organizaciones éticas, resilientes y sostenibles.",
@@ -1525,7 +1477,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "25/09/2026",
       "fecha_inicio_iso": "2026-09-25",
-      "url": "https://educacionvirtual.javeriana.edu.co/oficial-de-cumplimiento-integral-gobierno-control-riesgos-y-etica-empresarial"
+      "url": "https://educacionvirtual.javeriana.edu.co/oficial-de-cumplimiento-integral-gobierno-control-riesgos-y-etica-empresarial",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Derecho Animal",
@@ -1534,7 +1487,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "25/09/2026",
       "fecha_inicio_iso": "2026-09-25",
-      "url": "https://educacionvirtual.javeriana.edu.co/derecho-animal"
+      "url": "https://educacionvirtual.javeriana.edu.co/derecho-animal",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Alta Gerencia de destinos turísticos",
@@ -1543,16 +1497,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "25/09/2026",
       "fecha_inicio_iso": "2026-09-25",
-      "url": "https://educacionvirtual.javeriana.edu.co/alta-gerencia-de-destinos-turisticos"
-    },
-    {
-      "titulo": "Ética de datos para líderes: IA, privacidad y confianza empresarial",
-      "tipo": "Curso",
-      "duracion": "20 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "25/09/2026",
-      "fecha_inicio_iso": "2026-09-25",
-      "url": "https://educacionvirtual.javeriana.edu.co/etica-de-datos-para-lideres-ia-privacidad-y-confianza-empresarial"
+      "url": "https://educacionvirtual.javeriana.edu.co/alta-gerencia-de-destinos-turisticos",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Comunica con impacto: bootcamp intensivo de expresión oral",
@@ -1834,15 +1780,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/escrituras-situadas.-materialidad-territorios-e-investigacion-social"
     },
     {
-      "titulo": "Live Cinema y Video Mapping creación audiovisual en vivo",
-      "tipo": "Diplomado",
-      "duracion": "95 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "29/09/2026",
-      "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/live-cinema-y-video-mapping-creación-audiovisual-en-vivo"
-    },
-    {
       "titulo": "Actualización en código de procedimiento administrativo y de lo contencioso administrativo - Reforma Ley 2080",
       "tipo": "Curso",
       "duracion": "20 Horas",
@@ -2021,6 +1958,15 @@
       "fecha_inicio": "05/10/2026",
       "fecha_inicio_iso": "2026-10-05",
       "url": "https://educacionvirtual.javeriana.edu.co/gestion-administrativa-publica"
+    },
+    {
+      "titulo": "Live Cinema y Video Mapping creación audiovisual en vivo",
+      "tipo": "Diplomado",
+      "duracion": "95 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "06/10/2026",
+      "fecha_inicio_iso": "2026-10-06",
+      "url": "https://educacionvirtual.javeriana.edu.co/live-cinema-y-video-mapping-creación-audiovisual-en-vivo"
     },
     {
       "titulo": "Avalúos: Innovación y estrategia en valoraciones inmobiliarias urbanas y rurales",
@@ -2662,6 +2608,15 @@
       "url": "https://educacionvirtual.javeriana.edu.co/liderazgo-etico-para-la-innovacion-y-transformacion"
     },
     {
+      "titulo": "Curso y taller práctico de marketing legal",
+      "tipo": "Curso",
+      "duracion": "20 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "27/10/2026",
+      "fecha_inicio_iso": "2026-10-27",
+      "url": "https://educacionvirtual.javeriana.edu.co/curso-y-taller-practico-de-marketing-legal"
+    },
+    {
       "titulo": "Liderazgo, equidad y nuevas realidades del mundo laboral: masculinidades e inclusión en las organizaciones",
       "tipo": "Curso",
       "duracion": "20 Horas",
@@ -2842,6 +2797,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/clasificacion-de-eventos-en-salud-basada-en-datos-de-la-vida-real"
     }
   ],
-  "updated_at": "2026-09-25",
+  "updated_at": "2026-09-26",
   "source": "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"
 }
