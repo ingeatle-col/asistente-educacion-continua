@@ -1,16 +1,6 @@
 {
   "programas": [
     {
-      "titulo": "Mindfulness con énfasis en educación Oriente",
-      "tipo": "Curso",
-      "duracion": "20 Horas",
-      "nivel": "Básico",
-      "fecha_inicio": "09/07/2026",
-      "fecha_inicio_iso": "2026-07-09",
-      "url": "https://educacionvirtual.javeriana.edu.co/mindfulness-con-enfasis-en-educacion-oriente",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "El arte de comunicar inspirado en técnicas teatrales",
       "tipo": "Curso",
       "duracion": "16 Horas",
@@ -398,16 +388,6 @@
       "fecha_inicio": "25/08/2026",
       "fecha_inicio_iso": "2026-08-25",
       "url": "https://educacionvirtual.javeriana.edu.co/implementacion-economia-circular",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Finanzas Verdes",
-      "tipo": "Curso",
-      "duracion": "56 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "25/08/2026",
-      "fecha_inicio_iso": "2026-08-25",
-      "url": "https://educacionvirtual.javeriana.edu.co/curso-de-finanzas-verdes",
       "inscripcion_continua": true
     },
     {
@@ -1431,26 +1411,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Gestión de riesgo reputacional y manejo de crisis - Medellín",
-      "tipo": "Curso",
-      "duracion": "24 Horas",
-      "nivel": "Básico",
-      "fecha_inicio": "24/09/2026",
-      "fecha_inicio_iso": "2026-09-24",
-      "url": "https://educacionvirtual.javeriana.edu.co/gestion-de-riesgo-reputacional-y-manejo-de-crisis-antioquia",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Crianza y Educación Consciente",
-      "tipo": "Curso",
-      "duracion": "20 Horas",
-      "nivel": "Básico",
-      "fecha_inicio": "24/09/2026",
-      "fecha_inicio_iso": "2026-09-24",
-      "url": "https://educacionvirtual.javeriana.edu.co/crianza-y-educacion-consciente-oriente",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "SECOP II",
       "tipo": "Curso",
       "duracion": "8 Horas",
@@ -1507,7 +1467,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "26/09/2026",
       "fecha_inicio_iso": "2026-09-26",
-      "url": "https://educacionvirtual.javeriana.edu.co/comunica-con-impacto-bootcamp-intensivo-de-expresion-oral"
+      "url": "https://educacionvirtual.javeriana.edu.co/comunica-con-impacto-bootcamp-intensivo-de-expresion-oral",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Investigación Científica y Técnicas de Laboratorio en Ciencias de la Salud Oral",
@@ -1516,7 +1477,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "26/09/2026",
       "fecha_inicio_iso": "2026-09-26",
-      "url": "https://educacionvirtual.javeriana.edu.co/tecnicas-de-investigacion-en-odontologia"
+      "url": "https://educacionvirtual.javeriana.edu.co/tecnicas-de-investigacion-en-odontologia",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Entrenamiento Prueba saber 11",
@@ -1525,7 +1487,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "26/09/2026",
       "fecha_inicio_iso": "2026-09-26",
-      "url": "https://educacionvirtual.javeriana.edu.co/entrenamiento-prueba-saber-11-campus"
+      "url": "https://educacionvirtual.javeriana.edu.co/entrenamiento-prueba-saber-11-campus",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Inserción de Implante Subdérmico y Dispositivo Intrauterino (DIU)",
@@ -1534,7 +1497,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "26/09/2026",
       "fecha_inicio_iso": "2026-09-26",
-      "url": "https://educacionvirtual.javeriana.edu.co/insercion-implante-subdermico"
+      "url": "https://educacionvirtual.javeriana.edu.co/insercion-implante-subdermico",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Gestión de proyectos y obras de construcción",
@@ -2797,6 +2761,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/clasificacion-de-eventos-en-salud-basada-en-datos-de-la-vida-real"
     }
   ],
-  "updated_at": "2026-09-26",
+  "updated_at": "2026-09-27",
   "source": "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"
 }
