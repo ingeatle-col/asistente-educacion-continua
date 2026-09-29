@@ -21,16 +21,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Educación Somática: Conceptos, Prácticas y Pedagogías en Contexto",
-      "tipo": "Diplomado",
-      "duracion": "90 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "29/07/2026",
-      "fecha_inicio_iso": "2026-07-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/educacion-somatica-conceptos-practicas",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Nano-Odontología, Robótica, y Bioingeniería en Odontología",
       "tipo": "Curso",
       "duracion": "30 Horas",
@@ -38,16 +28,6 @@
       "fecha_inicio": "30/07/2026",
       "fecha_inicio_iso": "2026-07-30",
       "url": "https://educacionvirtual.javeriana.edu.co/nano-odontología-robótica-y-bioingeniería-en-odontología",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "BIM Transformación digital en construcción",
-      "tipo": "Diplomado",
-      "duracion": "99 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "30/07/2026",
-      "fecha_inicio_iso": "2026-07-30",
-      "url": "https://educacionvirtual.javeriana.edu.co/bim-transformacion-digital-en-construccion-eje-cafetero",
       "inscripcion_continua": true
     },
     {
@@ -461,16 +441,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Excel Avanzado",
-      "tipo": "Curso",
-      "duracion": "49 Horas",
-      "nivel": "Avanzado",
-      "fecha_inicio": "28/08/2026",
-      "fecha_inicio_iso": "2026-08-28",
-      "url": "https://educacionvirtual.javeriana.edu.co/excel-avanzado",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Botánica Ilustrada: de sus Propiedades al Sketchbook",
       "tipo": "Curso",
       "duracion": "35 Horas",
@@ -608,16 +578,6 @@
       "fecha_inicio": "01/09/2026",
       "fecha_inicio_iso": "2026-09-01",
       "url": "https://educacionvirtual.javeriana.edu.co/metodos-de-resolucion-de-conflictos-en-proyectos-de-infraestructura",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Curso I: Soporte Metabólico y Nutricional Pediátrico",
-      "tipo": "Curso",
-      "duracion": "29 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "01/09/2026",
-      "fecha_inicio_iso": "2026-09-01",
-      "url": "https://educacionvirtual.javeriana.edu.co/curso-i-soporte-metabolico-y-nutricional-pediatrico",
       "inscripcion_continua": true
     },
     {
@@ -898,16 +858,6 @@
       "fecha_inicio": "11/09/2026",
       "fecha_inicio_iso": "2026-09-11",
       "url": "https://educacionvirtual.javeriana.edu.co/alta-gerencia-y-direccion-estrategica-oriente",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Habilidades de Liderazgo y Dirección",
-      "tipo": "Diplomado",
-      "duracion": "120 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "11/09/2026",
-      "fecha_inicio_iso": "2026-09-11",
-      "url": "https://educacionvirtual.javeriana.edu.co/liderazgo-y-direccion",
       "inscripcion_continua": true
     },
     {
@@ -1507,7 +1457,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "28/09/2026",
       "fecha_inicio_iso": "2026-09-28",
-      "url": "https://educacionvirtual.javeriana.edu.co/gestion-proyectos-y-obras-construccion"
+      "url": "https://educacionvirtual.javeriana.edu.co/gestion-proyectos-y-obras-construccion",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Relacionamiento estratégico para directivos",
@@ -1516,7 +1467,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "28/09/2026",
       "fecha_inicio_iso": "2026-09-28",
-      "url": "https://educacionvirtual.javeriana.edu.co/relacionamiento-estrategico-para-directivos"
+      "url": "https://educacionvirtual.javeriana.edu.co/relacionamiento-estrategico-para-directivos",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Metodología integral para la organización y producción de eventos",
@@ -1525,7 +1477,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "28/09/2026",
       "fecha_inicio_iso": "2026-09-28",
-      "url": "https://educacionvirtual.javeriana.edu.co/organizacion-y-produccion-de-eventos"
+      "url": "https://educacionvirtual.javeriana.edu.co/organizacion-y-produccion-de-eventos",
+      "inscripcion_continua": true
     },
     {
       "titulo": "De Consolas Análogas a Digitales: Fundamentos de Operación de Sonido",
@@ -1534,7 +1487,8 @@
       "nivel": "Básico",
       "fecha_inicio": "28/09/2026",
       "fecha_inicio_iso": "2026-09-28",
-      "url": "https://educacionvirtual.javeriana.edu.co/de-consolas-analogas-a-digitales-fundamentos-de-operacion-de-sonido"
+      "url": "https://educacionvirtual.javeriana.edu.co/de-consolas-analogas-a-digitales-fundamentos-de-operacion-de-sonido",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Gestión de PQRs, una forma de retener clientes",
@@ -1543,7 +1497,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "28/09/2026",
       "fecha_inicio_iso": "2026-09-28",
-      "url": "https://educacionvirtual.javeriana.edu.co/gestion-de-pqrs"
+      "url": "https://educacionvirtual.javeriana.edu.co/gestion-de-pqrs",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Liderazgo para Equipos y Resultados en Crecimiento",
@@ -2635,6 +2590,24 @@
       "url": "https://educacionvirtual.javeriana.edu.co/prematrimonial"
     },
     {
+      "titulo": "Finanzas Sostenibles: Fundamentación y práctica para la inversión en los Objetivos de Desarrollo Sostenible 2030-2050",
+      "tipo": "Curso",
+      "duracion": "30 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "03/11/2026",
+      "fecha_inicio_iso": "2026-11-03",
+      "url": "https://educacionvirtual.javeriana.edu.co/finanzas-sostenibles-fundamentacion-y-practica-para-la-inversion-en-los-objetivos-de-desarrollo-sostenible-2030-2050"
+    },
+    {
+      "titulo": "Gestión de la Gobernanza Colaborativa",
+      "tipo": "Curso",
+      "duracion": "30 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "03/11/2026",
+      "fecha_inicio_iso": "2026-11-03",
+      "url": "https://educacionvirtual.javeriana.edu.co/gestion-de-la-gobernanza-colaborativa"
+    },
+    {
       "titulo": "Expresión oral y manejo de públicos",
       "tipo": "Curso",
       "duracion": "50 Horas",
@@ -2761,6 +2734,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/clasificacion-de-eventos-en-salud-basada-en-datos-de-la-vida-real"
     }
   ],
-  "updated_at": "2026-09-28",
+  "updated_at": "2026-09-29",
   "source": "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"
 }
