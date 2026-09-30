@@ -1,46 +1,6 @@
 {
   "programas": [
     {
-      "titulo": "El arte de comunicar inspirado en técnicas teatrales",
-      "tipo": "Curso",
-      "duracion": "16 Horas",
-      "nivel": "Avanzado",
-      "fecha_inicio": "24/07/2026",
-      "fecha_inicio_iso": "2026-07-24",
-      "url": "https://educacionvirtual.javeriana.edu.co/el-arte-de-comunicar-inspirado-en-tecnicas-teatrales",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Estrategias de gestión y desarrollo del talento humano - Barranquilla",
-      "tipo": "Curso",
-      "duracion": "36 Horas",
-      "nivel": "Básico",
-      "fecha_inicio": "29/07/2026",
-      "fecha_inicio_iso": "2026-07-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/estrategias-de-gestion-y-desarrollo-del-talento-humano",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Nano-Odontología, Robótica, y Bioingeniería en Odontología",
-      "tipo": "Curso",
-      "duracion": "30 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "30/07/2026",
-      "fecha_inicio_iso": "2026-07-30",
-      "url": "https://educacionvirtual.javeriana.edu.co/nano-odontología-robótica-y-bioingeniería-en-odontología",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Insolvencia e intervención - Con el aval de la Superintendencia de Sociedades",
-      "tipo": "Diplomado",
-      "duracion": "130 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "04/08/2026",
-      "fecha_inicio_iso": "2026-08-04",
-      "url": "https://educacionvirtual.javeriana.edu.co/insolvencia-e-intervencion-con-el-aval-de-la-superintendencia-de-sociedades",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "IA con énfasis en contabilidad finanzas y datos",
       "tipo": "Taller",
       "duracion": "4 Horas",
@@ -58,16 +18,6 @@
       "fecha_inicio": "05/08/2026",
       "fecha_inicio_iso": "2026-08-05",
       "url": "https://educacionvirtual.javeriana.edu.co/jesus-de-nazaret.-una-aproximación-biblica-arqueologica-y-espiritual",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Citogenética clásica y molecular: Uso en el diagnóstico clínico y la investigación",
-      "tipo": "Diplomado",
-      "duracion": "90 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "08/08/2026",
-      "fecha_inicio_iso": "2026-08-08",
-      "url": "https://educacionvirtual.javeriana.edu.co/citogenetica-clasica-y-molecula",
       "inscripcion_continua": true
     },
     {
@@ -111,36 +61,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Contratación pública sostenible",
-      "tipo": "Curso",
-      "duracion": "40 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "11/08/2026",
-      "fecha_inicio_iso": "2026-08-11",
-      "url": "https://educacionvirtual.javeriana.edu.co/contratacion-publica-sostenible",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Gestión de riesgo reputacional y manejo de crisis",
-      "tipo": "Curso",
-      "duracion": "24 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "11/08/2026",
-      "fecha_inicio_iso": "2026-08-11",
-      "url": "https://educacionvirtual.javeriana.edu.co/gestión-de-riesgo-reputacional-y-manejo-de-crisis",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Finanzas sostenibles para la gestión inmobiliaria",
-      "tipo": "Curso",
-      "duracion": "27 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "11/08/2026",
-      "fecha_inicio_iso": "2026-08-11",
-      "url": "https://educacionvirtual.javeriana.edu.co/finanzas-sostenibles-para-la-gestion-inmobiliaria",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Inteligencia artificial para la productividad laboral",
       "tipo": "Diplomado",
       "duracion": "80 Horas",
@@ -168,16 +88,6 @@
       "fecha_inicio": "15/08/2026",
       "fecha_inicio_iso": "2026-08-15",
       "url": "https://educacionvirtual.javeriana.edu.co/fotografia-basica-la-magia-del-cuarto-oscuro",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Fundamentos de Piano y Lenguaje Musical",
-      "tipo": "Curso",
-      "duracion": "32 Horas",
-      "nivel": "Básico",
-      "fecha_inicio": "15/08/2026",
-      "fecha_inicio_iso": "2026-08-15",
-      "url": "https://educacionvirtual.javeriana.edu.co/fundamentos-de-piano-y-lenguaje-musical",
       "inscripcion_continua": true
     },
     {
@@ -211,36 +121,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Estrategias y técnicas para la restauración ecológica de ecosistemas terrestres",
-      "tipo": "Curso",
-      "duracion": "25 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "18/08/2026",
-      "fecha_inicio_iso": "2026-08-18",
-      "url": "https://educacionvirtual.javeriana.edu.co/estrategias-y-tecnicas-para-la-restauracion-ecologica-de-ecosistemas-terrestres",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "¿Actuar lo contemporáneo? Distopías y sociedad actual",
-      "tipo": "Diplomado",
-      "duracion": "80 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "18/08/2026",
-      "fecha_inicio_iso": "2026-08-18",
-      "url": "https://educacionvirtual.javeriana.edu.co/actuar-lo-contemporaneo-distopias-y-sociedad-actual",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Analítica para la Inteligencia de Negocios",
-      "tipo": "Curso",
-      "duracion": "50 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "19/08/2026",
-      "fecha_inicio_iso": "2026-08-19",
-      "url": "https://educacionvirtual.javeriana.edu.co/analítica-para-la-inteligencia-de-negocios",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Meditación y Mindfulness: Curso práctico para restablecer la armonía interior",
       "tipo": "Curso",
       "duracion": "25 Horas",
@@ -248,16 +128,6 @@
       "fecha_inicio": "22/08/2026",
       "fecha_inicio_iso": "2026-08-22",
       "url": "https://educacionvirtual.javeriana.edu.co/meditacion-mindfulness-curso-practico-para-restablecer-la-armonia-interior",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Estética dental - Bucaramanga",
-      "tipo": "Diplomado",
-      "duracion": "100 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "22/08/2026",
-      "fecha_inicio_iso": "2026-08-22",
-      "url": "https://educacionvirtual.javeriana.edu.co/estética-dental",
       "inscripcion_continua": true
     },
     {
@@ -351,26 +221,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Inmersión Total: Desarrollo y Producción de Experiencias Interactivas",
-      "tipo": "Curso",
-      "duracion": "48 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "25/08/2026",
-      "fecha_inicio_iso": "2026-08-25",
-      "url": "https://educacionvirtual.javeriana.edu.co/desarrollo-produccion-experiencias",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Mentoring en Implementación de la Economía Circular y diseño de productos sostenibles",
-      "tipo": "Curso",
-      "duracion": "42 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "25/08/2026",
-      "fecha_inicio_iso": "2026-08-25",
-      "url": "https://educacionvirtual.javeriana.edu.co/implementacion-economia-circular",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Orar con los salmos",
       "tipo": "Curso",
       "duracion": "16 Horas",
@@ -411,16 +261,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Revisoría fiscal y auditoría financiera",
-      "tipo": "Diplomado",
-      "duracion": "100 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "27/08/2026",
-      "fecha_inicio_iso": "2026-08-27",
-      "url": "https://educacionvirtual.javeriana.edu.co/revisoria-fiscal-y-auditoria-financiera",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Gestión de Proyectos alineado al Estándar PMBoK y  potenciado con IA Generativa",
       "tipo": "Diplomado",
       "duracion": "120 Horas",
@@ -428,16 +268,6 @@
       "fecha_inicio": "28/08/2026",
       "fecha_inicio_iso": "2026-08-28",
       "url": "https://educacionvirtual.javeriana.edu.co/gestion-de-proyectos-alineado-al-estandar-pmbok-y-potenciado-con-ia-gen-diplomado",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Dirección Estratégica",
-      "tipo": "Diplomado",
-      "duracion": "99 Horas",
-      "nivel": "Avanzado",
-      "fecha_inicio": "28/08/2026",
-      "fecha_inicio_iso": "2026-08-28",
-      "url": "https://educacionvirtual.javeriana.edu.co/direccion-estrategica",
       "inscripcion_continua": true
     },
     {
@@ -711,16 +541,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Administración De restaurantes - Pereira",
-      "tipo": "Diplomado",
-      "duracion": "100 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "07/09/2026",
-      "fecha_inicio_iso": "2026-09-07",
-      "url": "https://educacionvirtual.javeriana.edu.co/administración-de-restaurantes-eje-cafetero",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Regulación, mercado y transición energética del sector eléctrico colombiano",
       "tipo": "Diplomado",
       "duracion": "122 Horas",
@@ -728,16 +548,6 @@
       "fecha_inicio": "08/09/2026",
       "fecha_inicio_iso": "2026-09-08",
       "url": "https://educacionvirtual.javeriana.edu.co/regulacion-mercado-y-transicion-energetica-del-sector-electrico-colombiano",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Club Sapiencia - Bogotá",
-      "tipo": "Curso",
-      "duracion": "40 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "08/09/2026",
-      "fecha_inicio_iso": "2026-09-08",
-      "url": "https://educacionvirtual.javeriana.edu.co/club-sapiencia",
       "inscripcion_continua": true
     },
     {
@@ -788,16 +598,6 @@
       "fecha_inicio": "08/09/2026",
       "fecha_inicio_iso": "2026-09-08",
       "url": "https://educacionvirtual.javeriana.edu.co/crianza-y-conexion-el-poder-de-acompañar",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Metodologías de formación musical",
-      "tipo": "Diplomado",
-      "duracion": "108 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "08/09/2026",
-      "fecha_inicio_iso": "2026-09-08",
-      "url": "https://educacionvirtual.javeriana.edu.co/metodologias-de-formacion-musical-diplomado",
       "inscripcion_continua": true
     },
     {
@@ -1121,16 +921,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Medicina de Precisión en Odontología",
-      "tipo": "Curso",
-      "duracion": "30 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "17/09/2026",
-      "fecha_inicio_iso": "2026-09-17",
-      "url": "https://educacionvirtual.javeriana.edu.co/medicina-de-precision-en-odontologia",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Dirección de arte para teatro",
       "tipo": "Curso",
       "duracion": "18 Horas",
@@ -1361,16 +1151,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "SECOP II",
-      "tipo": "Curso",
-      "duracion": "8 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "25/09/2026",
-      "fecha_inicio_iso": "2026-09-25",
-      "url": "https://educacionvirtual.javeriana.edu.co/secop",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Bootcamp IA para líderes empresariales - Medellín",
       "tipo": "Curso",
       "duracion": "30 Horas",
@@ -1507,7 +1287,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/liderazgo-para-equipos-y-resultados-en-crecimiento"
+      "url": "https://educacionvirtual.javeriana.edu.co/liderazgo-para-equipos-y-resultados-en-crecimiento",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Estrategia Digital con Meta Ads en Alianza con Cámara de Comercio de Armenia",
@@ -1516,7 +1297,8 @@
       "nivel": "Básico",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/estrategia-digital-con-meta-ads1"
+      "url": "https://educacionvirtual.javeriana.edu.co/estrategia-digital-con-meta-ads1",
+      "inscripcion_continua": true
     },
     {
       "titulo": "IA en Salud - Aliado Camara de Comercio de Armenia",
@@ -1525,7 +1307,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/ia-en-salud-aliado-camara-de-comercio-de-armenia"
+      "url": "https://educacionvirtual.javeriana.edu.co/ia-en-salud-aliado-camara-de-comercio-de-armenia",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Actualización Aduanera: nuevo régimen sancionatorio y de procedimiento aduanero 2026 y actualidad del régimen aduanero colombiano",
@@ -1534,7 +1317,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/actualizacion-aduanera-nuevo-regimen-sancionatorio-y-de-procedimiento-aduanero-2026"
+      "url": "https://educacionvirtual.javeriana.edu.co/actualizacion-aduanera-nuevo-regimen-sancionatorio-y-de-procedimiento-aduanero-2026",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Scrum Máster:  preparación para la certificación profesional internacional de CertiProf®",
@@ -1543,7 +1327,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/scrum-master-preparacion-para-la-certificacion-profesional-internacional-de-certiprof®"
+      "url": "https://educacionvirtual.javeriana.edu.co/scrum-master-preparacion-para-la-certificacion-profesional-internacional-de-certiprof®",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Innovación Aplicada y Nuevos Negocios Inteligentes",
@@ -1552,7 +1337,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/innovacion-aplicada-y-nuevos-negocios-inteligentes"
+      "url": "https://educacionvirtual.javeriana.edu.co/innovacion-aplicada-y-nuevos-negocios-inteligentes",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Gestus: voz, cuerpo y comunicación",
@@ -1561,7 +1347,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/gestus-voz-cuerpo-y-comunicacion"
+      "url": "https://educacionvirtual.javeriana.edu.co/gestus-voz-cuerpo-y-comunicacion",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Litigio virtual, justicia digital, IA y automatización",
@@ -1570,7 +1357,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/litigio-virtual-justicia-digital-ia-y-automatizacion"
+      "url": "https://educacionvirtual.javeriana.edu.co/litigio-virtual-justicia-digital-ia-y-automatizacion",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Pedagogías Alternativas en Música Comunitaria: Ensamble Vocal y Percusión Afrocolombiana",
@@ -1579,7 +1367,8 @@
       "nivel": "Básico",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/pedagogias-alternativas-en-musica-comunitaria-ensamble-vocal-y-percusion-afrocolombiana"
+      "url": "https://educacionvirtual.javeriana.edu.co/pedagogias-alternativas-en-musica-comunitaria-ensamble-vocal-y-percusion-afrocolombiana",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Gestión Inmobiliaria",
@@ -1588,7 +1377,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/gestion-inmobiliaria"
+      "url": "https://educacionvirtual.javeriana.edu.co/gestion-inmobiliaria",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Comunicación asertiva y estratégica con IA para líderes",
@@ -1597,7 +1387,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/comunicacion-asertiva-y-estrategica-para-directivos"
+      "url": "https://educacionvirtual.javeriana.edu.co/comunicacion-asertiva-y-estrategica-para-directivos",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Gestión Comercial para Negocios Gastronómicos - en Alianza con Fenicia, Centro de Formación de Fenalco Antioquia",
@@ -1606,7 +1397,8 @@
       "nivel": "Básico",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/gestion-comercial-para-negocios-gastronomicos"
+      "url": "https://educacionvirtual.javeriana.edu.co/gestion-comercial-para-negocios-gastronomicos",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Inteligencia Artificial y Analítica de datos para financieros y no financieros",
@@ -1615,7 +1407,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/inteligencia-artificial-y-analítica-de-datos-para-análisis-financiero"
+      "url": "https://educacionvirtual.javeriana.edu.co/inteligencia-artificial-y-analítica-de-datos-para-análisis-financiero",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Acueductos Veredales y Comunitarios",
@@ -1624,7 +1417,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/acueductos-veredales"
+      "url": "https://educacionvirtual.javeriana.edu.co/acueductos-veredales",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Tejer otros mundos posibles: un acercamiento desde el acompañamiento",
@@ -1633,7 +1427,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/tejer-otros-mundos-posibles-un-acercamiento-desde-el-acompanamiento"
+      "url": "https://educacionvirtual.javeriana.edu.co/tejer-otros-mundos-posibles-un-acercamiento-desde-el-acompanamiento",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Diseñar con IA: arquitectura e interiorismo del futuro",
@@ -1642,7 +1437,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/diseñar-con-ia-arquitectura-e-interiorismo-del-futuro"
+      "url": "https://educacionvirtual.javeriana.edu.co/diseñar-con-ia-arquitectura-e-interiorismo-del-futuro",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Storytelling y Presentaciones basadas en la Generación de Datos Estadísticos",
@@ -1651,7 +1447,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/storytelling"
+      "url": "https://educacionvirtual.javeriana.edu.co/storytelling",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Gobierno corporativo y juntas directivas",
@@ -1660,7 +1457,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/gobierno-corporativo-y-juntas-directivas"
+      "url": "https://educacionvirtual.javeriana.edu.co/gobierno-corporativo-y-juntas-directivas",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Precios de transferencia",
@@ -1669,7 +1467,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/precios-de-transferencia"
+      "url": "https://educacionvirtual.javeriana.edu.co/precios-de-transferencia",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Gerencia de proyectos sociales",
@@ -1678,7 +1477,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/gerencia-proyectos-sociales"
+      "url": "https://educacionvirtual.javeriana.edu.co/gerencia-proyectos-sociales",
+      "inscripcion_continua": true
     },
     {
       "titulo": "NIIF de sostenibilidad y Clima S1 y S2",
@@ -1687,7 +1487,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/normas-internacionales-de-sostenibilidad"
+      "url": "https://educacionvirtual.javeriana.edu.co/normas-internacionales-de-sostenibilidad",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Escrituras situadas. Materialidad, territorios e investigación social",
@@ -1696,7 +1497,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "29/09/2026",
       "fecha_inicio_iso": "2026-09-29",
-      "url": "https://educacionvirtual.javeriana.edu.co/escrituras-situadas.-materialidad-territorios-e-investigacion-social"
+      "url": "https://educacionvirtual.javeriana.edu.co/escrituras-situadas.-materialidad-territorios-e-investigacion-social",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Actualización en código de procedimiento administrativo y de lo contencioso administrativo - Reforma Ley 2080",
@@ -1877,6 +1679,15 @@
       "fecha_inicio": "05/10/2026",
       "fecha_inicio_iso": "2026-10-05",
       "url": "https://educacionvirtual.javeriana.edu.co/gestion-administrativa-publica"
+    },
+    {
+      "titulo": "Club Sapiencia - Bogotá",
+      "tipo": "Curso",
+      "duracion": "40 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "06/10/2026",
+      "fecha_inicio_iso": "2026-10-06",
+      "url": "https://educacionvirtual.javeriana.edu.co/club-sapiencia"
     },
     {
       "titulo": "Live Cinema y Video Mapping creación audiovisual en vivo",
@@ -2644,6 +2455,15 @@
       "url": "https://educacionvirtual.javeriana.edu.co/certificacion-y-tecnicas-basicas-de-grabacion-y-mezcla-en-consola-yamaha-dm7"
     },
     {
+      "titulo": "SECOP II",
+      "tipo": "Curso",
+      "duracion": "8 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "06/11/2026",
+      "fecha_inicio_iso": "2026-11-06",
+      "url": "https://educacionvirtual.javeriana.edu.co/secop"
+    },
+    {
       "titulo": "Monitoreo de la restauración ecológica",
       "tipo": "Curso",
       "duracion": "25 Horas",
@@ -2734,6 +2554,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/clasificacion-de-eventos-en-salud-basada-en-datos-de-la-vida-real"
     }
   ],
-  "updated_at": "2026-09-29",
+  "updated_at": "2026-09-30",
   "source": "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"
 }
