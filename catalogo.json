@@ -131,16 +131,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Estética dental - Bucaramanga",
-      "tipo": "Diplomado",
-      "duracion": "100 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "22/08/2026",
-      "fecha_inicio_iso": "2026-08-22",
-      "url": "https://educacionvirtual.javeriana.edu.co/estética-dental",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Método Madre Canguro",
       "tipo": "Diplomado",
       "duracion": "120 Horas",
@@ -1211,16 +1201,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Inserción de Implante Subdérmico y Dispositivo Intrauterino (DIU)",
-      "tipo": "Curso",
-      "duracion": "6 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "26/09/2026",
-      "fecha_inicio_iso": "2026-09-26",
-      "url": "https://educacionvirtual.javeriana.edu.co/insercion-implante-subdermico",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Gestión de proyectos y obras de construcción",
       "tipo": "Diplomado",
       "duracion": "100 Horas",
@@ -1491,23 +1471,14 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Formación profesional de wedding planner",
-      "tipo": "Curso",
-      "duracion": "60 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "30/09/2026",
-      "fecha_inicio_iso": "2026-09-30",
-      "url": "https://educacionvirtual.javeriana.edu.co/wedding-planner",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Comunicaciones Integradas de Marketing",
       "tipo": "Curso",
       "duracion": "36 Horas",
       "nivel": "Básico",
       "fecha_inicio": "01/10/2026",
       "fecha_inicio_iso": "2026-10-01",
-      "url": "https://educacionvirtual.javeriana.edu.co/comunicaciones-integradas-de-marketing"
+      "url": "https://educacionvirtual.javeriana.edu.co/comunicaciones-integradas-de-marketing",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Medicina transfusional e inmunohematología",
@@ -1516,7 +1487,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "01/10/2026",
       "fecha_inicio_iso": "2026-10-01",
-      "url": "https://educacionvirtual.javeriana.edu.co/medicinatransfusional"
+      "url": "https://educacionvirtual.javeriana.edu.co/medicinatransfusional",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Derecho De Seguros",
@@ -1525,7 +1497,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "01/10/2026",
       "fecha_inicio_iso": "2026-10-01",
-      "url": "https://educacionvirtual.javeriana.edu.co/derecho-de-seguros"
+      "url": "https://educacionvirtual.javeriana.edu.co/derecho-de-seguros",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Advanced Management Program - AMP",
@@ -2302,6 +2275,15 @@
       "url": "https://educacionvirtual.javeriana.edu.co/formacion-ejecutiva-gerencia-de-ventas-medellin"
     },
     {
+      "titulo": "PROTECCIÓN RADIOLÓGICA - Resolución 1811 del 4 de septiembre de 2025 — Formato 8",
+      "tipo": "Curso",
+      "duracion": "52 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "23/10/2026",
+      "fecha_inicio_iso": "2026-10-23",
+      "url": "https://educacionvirtual.javeriana.edu.co/proteccion-radiologica-resolucion-1811-del-4-de-septiembre-de-2025-formato-8"
+    },
+    {
       "titulo": "La vida hecha a mano sistema de pensamiento y creacion consciente - Manizales",
       "tipo": "Curso",
       "duracion": "28 Horas",
@@ -2500,6 +2482,15 @@
       "url": "https://educacionvirtual.javeriana.edu.co/inteligencia-artificial-con-enfoque-en-ciencia-e-investigacion"
     },
     {
+      "titulo": "Protección de Datos Personales: Habeas Data",
+      "tipo": "Curso",
+      "duracion": "30 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "10/11/2026",
+      "fecha_inicio_iso": "2026-11-10",
+      "url": "https://educacionvirtual.javeriana.edu.co/habeas-data"
+    },
+    {
       "titulo": "Laboratorio práctico integrador de ética organizacional",
       "tipo": "Curso",
       "duracion": "10 Horas",
@@ -2507,6 +2498,24 @@
       "fecha_inicio": "12/11/2026",
       "fecha_inicio_iso": "2026-11-12",
       "url": "https://educacionvirtual.javeriana.edu.co/laboratorio-practico-integrador-de-etica-organizacional"
+    },
+    {
+      "titulo": "Inserción de Implante Subdérmico y Dispositivo Intrauterino (DIU)",
+      "tipo": "Curso",
+      "duracion": "6 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "14/11/2026",
+      "fecha_inicio_iso": "2026-11-14",
+      "url": "https://educacionvirtual.javeriana.edu.co/insercion-implante-subdermico"
+    },
+    {
+      "titulo": "Filosofía del poder y la violencia",
+      "tipo": "Curso",
+      "duracion": "12 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "18/11/2026",
+      "fecha_inicio_iso": "2026-11-18",
+      "url": "https://educacionvirtual.javeriana.edu.co/filosofiadelpoderylaviolencia"
     },
     {
       "titulo": "XXIII Congreso Latinoamericano de Investigación Operativa - VI Congreso Colombiano de Investigación Operativa",
@@ -2536,6 +2545,15 @@
       "url": "https://educacionvirtual.javeriana.edu.co/bootcamp-ia-para-lideres-empresariales-caribe"
     },
     {
+      "titulo": "R + IA para profesionales de la Salud: Manejo, análisis y visualización con datos reales de UCI.",
+      "tipo": "Curso",
+      "duracion": "30 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "30/11/2026",
+      "fecha_inicio_iso": "2026-11-30",
+      "url": "https://educacionvirtual.javeriana.edu.co/riaparaprofesionalesdelasalud"
+    },
+    {
       "titulo": "Evaluación de intervenciones en salud con datos de la vida real",
       "tipo": "Curso",
       "duracion": "30 Horas",
@@ -2552,15 +2570,6 @@
       "fecha_inicio": "30/11/2026",
       "fecha_inicio_iso": "2026-11-30",
       "url": "https://educacionvirtual.javeriana.edu.co/modelos-longitudinales-aplicados-a-datos-de-la-vida-real"
-    },
-    {
-      "titulo": "Visualización de datos en salud de la vida real",
-      "tipo": "Curso",
-      "duracion": "30 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "30/11/2026",
-      "fecha_inicio_iso": "2026-11-30",
-      "url": "https://educacionvirtual.javeriana.edu.co/visualizacion-de-datos-en-salud-de-la-vida-real"
     },
     {
       "titulo": "Clasificación de eventos en salud basada en datos de la vida real",
@@ -2653,6 +2662,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/musica-juvenil"
     }
   ],
-  "updated_at": "2026-10-01",
+  "updated_at": "2026-10-02",
   "source": "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"
 }
