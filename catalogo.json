@@ -221,16 +221,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Inmersión Total: Desarrollo y Producción de Experiencias Interactivas",
-      "tipo": "Curso",
-      "duracion": "48 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "25/08/2026",
-      "fecha_inicio_iso": "2026-08-25",
-      "url": "https://educacionvirtual.javeriana.edu.co/desarrollo-produccion-experiencias",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Orar con los salmos",
       "tipo": "Curso",
       "duracion": "16 Horas",
@@ -648,16 +638,6 @@
       "fecha_inicio": "10/09/2026",
       "fecha_inicio_iso": "2026-09-10",
       "url": "https://educacionvirtual.javeriana.edu.co/formacioncoordinacionpointcare",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Cómo Escribir y Publicar en Ciencias de la Salud",
-      "tipo": "Curso",
-      "duracion": "30 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "10/09/2026",
-      "fecha_inicio_iso": "2026-09-10",
-      "url": "https://educacionvirtual.javeriana.edu.co/escribirencienciassalud",
       "inscripcion_continua": true
     },
     {
@@ -1507,7 +1487,8 @@
       "nivel": "Avanzado",
       "fecha_inicio": "02/10/2026",
       "fecha_inicio_iso": "2026-10-02",
-      "url": "https://educacionvirtual.javeriana.edu.co/alta-gerencia-y-direccion-amp"
+      "url": "https://educacionvirtual.javeriana.edu.co/alta-gerencia-y-direccion-amp",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Gestión integral de RCD - Separación y Manejo en obra",
@@ -1516,7 +1497,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "02/10/2026",
       "fecha_inicio_iso": "2026-10-02",
-      "url": "https://educacionvirtual.javeriana.edu.co/gestion-integral-de-rcd-separacion-y-manejo-en-obra"
+      "url": "https://educacionvirtual.javeriana.edu.co/gestion-integral-de-rcd-separacion-y-manejo-en-obra",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Soporte Vital Cardiovascular Básico (BLS Heartcode)",
@@ -2662,6 +2644,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/musica-juvenil"
     }
   ],
-  "updated_at": "2026-10-02",
+  "updated_at": "2026-10-03",
   "source": "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"
 }
