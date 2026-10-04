@@ -11,26 +11,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Jesús de Nazaret. Una aproximación bíblica, arqueológica y espiritual",
-      "tipo": "Diplomado",
-      "duracion": "100 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "05/08/2026",
-      "fecha_inicio_iso": "2026-08-05",
-      "url": "https://educacionvirtual.javeriana.edu.co/jesus-de-nazaret.-una-aproximación-biblica-arqueologica-y-espiritual",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Asuntos regulatorios con enfoque en eCTD y normativa regulatoria de EE.UU",
-      "tipo": "Diplomado",
-      "duracion": "135 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "10/08/2026",
-      "fecha_inicio_iso": "2026-08-10",
-      "url": "https://educacionvirtual.javeriana.edu.co/asuntos-regulatorios-con-enfoque-en-ectd-y-normativa-regulatoria-de-ee.uu",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Control de Inventarios para Hoteles y Restaurantes",
       "tipo": "Curso",
       "duracion": "12 Horas",
@@ -398,16 +378,6 @@
       "fecha_inicio": "01/09/2026",
       "fecha_inicio_iso": "2026-09-01",
       "url": "https://educacionvirtual.javeriana.edu.co/yemen-y-la-arabia-olvidada-de-la-reina-de-saba-a-las-geopoliticas-del-siglo-xxi",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Métodos de Resolución de Conflictos en Proyectos de Infraestructura",
-      "tipo": "Diplomado",
-      "duracion": "100 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "01/09/2026",
-      "fecha_inicio_iso": "2026-09-01",
-      "url": "https://educacionvirtual.javeriana.edu.co/metodos-de-resolucion-de-conflictos-en-proyectos-de-infraestructura",
       "inscripcion_continua": true
     },
     {
@@ -1507,7 +1477,8 @@
       "nivel": "Básico",
       "fecha_inicio": "03/10/2026",
       "fecha_inicio_iso": "2026-10-03",
-      "url": "https://educacionvirtual.javeriana.edu.co/soporte-vital-cardiovascular-basico-bls-heartcode"
+      "url": "https://educacionvirtual.javeriana.edu.co/soporte-vital-cardiovascular-basico-bls-heartcode",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Atención integral a Víctimas de Violencia sexual y de Género",
@@ -1516,7 +1487,8 @@
       "nivel": "Básico",
       "fecha_inicio": "03/10/2026",
       "fecha_inicio_iso": "2026-10-03",
-      "url": "https://educacionvirtual.javeriana.edu.co/atencion-integral-a-victimas-de-violencia-sexual-y-de-genero"
+      "url": "https://educacionvirtual.javeriana.edu.co/atencion-integral-a-victimas-de-violencia-sexual-y-de-genero",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Teoría del cine y su contenido simbólico y tradicional",
@@ -1525,7 +1497,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "03/10/2026",
       "fecha_inicio_iso": "2026-10-03",
-      "url": "https://educacionvirtual.javeriana.edu.co/teoria-del-cine-y-su-contenido-simbolico-y-tradicional"
+      "url": "https://educacionvirtual.javeriana.edu.co/teoria-del-cine-y-su-contenido-simbolico-y-tradicional",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Capacitación en Centrales de Esterilización",
@@ -2644,6 +2617,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/musica-juvenil"
     }
   ],
-  "updated_at": "2026-10-03",
+  "updated_at": "2026-10-04",
   "source": "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"
 }
