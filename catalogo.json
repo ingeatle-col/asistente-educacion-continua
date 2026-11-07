@@ -1,16 +1,6 @@
 {
   "programas": [
     {
-      "titulo": "Método Madre Canguro",
-      "tipo": "Diplomado",
-      "duracion": "120 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "24/08/2026",
-      "fecha_inicio_iso": "2026-08-24",
-      "url": "https://educacionvirtual.javeriana.edu.co/metodo-madre-canguro",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Animación experimental",
       "tipo": "Diplomado",
       "duracion": "138 Horas",
@@ -1497,7 +1487,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "06/11/2026",
       "fecha_inicio_iso": "2026-11-06",
-      "url": "https://educacionvirtual.javeriana.edu.co/secop"
+      "url": "https://educacionvirtual.javeriana.edu.co/secop",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Orientación profesional",
@@ -1763,7 +1754,7 @@
     {
       "titulo": "Ultrasonografía Clínica en Cuidado Crítico y Urgencias (POCUS)",
       "tipo": "Curso",
-      "duracion": "13 Horas",
+      "duracion": "14 Horas",
       "nivel": "Intermedio",
       "fecha_inicio": "24/11/2026",
       "fecha_inicio_iso": "2026-11-24",
@@ -1986,6 +1977,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/fortalecimiento-de-habilidades-de-liderazgo-en-mujeres"
     }
   ],
-  "updated_at": "2026-11-06",
+  "updated_at": "2026-11-07",
   "source": "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"
 }
