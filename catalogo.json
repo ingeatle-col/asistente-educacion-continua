@@ -61,36 +61,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Gestión de la Calidad del Laboratorio con Énfasis en Bancos de Sangre",
-      "tipo": "Diplomado",
-      "duracion": "120 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "03/09/2026",
-      "fecha_inicio_iso": "2026-09-03",
-      "url": "https://educacionvirtual.javeriana.edu.co/gestioncalidadlaboratoriosangre",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Gestión de la calidad del laboratorio con énfasis en laboratorios clínicos",
-      "tipo": "Diplomado",
-      "duracion": "120 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "03/09/2026",
-      "fecha_inicio_iso": "2026-09-03",
-      "url": "https://educacionvirtual.javeriana.edu.co/gestioncalidadlaboratorio",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Derecho penal canónico",
-      "tipo": "Diplomado",
-      "duracion": "120 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "03/09/2026",
-      "fecha_inicio_iso": "2026-09-03",
-      "url": "https://educacionvirtual.javeriana.edu.co/derecho-penal-canonico",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Marketing Digital con IA en Alianza con la Cámara de Comercio de Villavicencio",
       "tipo": "Diplomado",
       "duracion": "90 Horas",
@@ -158,16 +128,6 @@
       "fecha_inicio": "10/09/2026",
       "fecha_inicio_iso": "2026-09-10",
       "url": "https://educacionvirtual.javeriana.edu.co/regimen-tributario-colombiano",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Formación de Coordinadores para Point of Care Testing - POCT",
-      "tipo": "Diplomado",
-      "duracion": "100 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "10/09/2026",
-      "fecha_inicio_iso": "2026-09-10",
-      "url": "https://educacionvirtual.javeriana.edu.co/formacioncoordinacionpointcare",
       "inscripcion_continua": true
     },
     {
@@ -308,16 +268,6 @@
       "fecha_inicio": "21/09/2026",
       "fecha_inicio_iso": "2026-09-21",
       "url": "https://educacionvirtual.javeriana.edu.co/enfermedad-periodontal-y-periimplantar-clasificacion",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Gestión de proyectos con enfoque en desarrollo territorial",
-      "tipo": "Diplomado",
-      "duracion": "120 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "22/09/2026",
-      "fecha_inicio_iso": "2026-09-22",
-      "url": "https://educacionvirtual.javeriana.edu.co/gestiondeproyectosconenfoqueendesarrolloterritorial",
       "inscripcion_continua": true
     },
     {
@@ -631,16 +581,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Derecho De Seguros",
-      "tipo": "Diplomado",
-      "duracion": "100 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "01/10/2026",
-      "fecha_inicio_iso": "2026-10-01",
-      "url": "https://educacionvirtual.javeriana.edu.co/derecho-de-seguros",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Advanced Management Program - AMP",
       "tipo": "Programa para profesionales",
       "duracion": "240 Horas",
@@ -818,16 +758,6 @@
       "fecha_inicio": "08/10/2026",
       "fecha_inicio_iso": "2026-10-08",
       "url": "https://educacionvirtual.javeriana.edu.co/analitica-de-datos-automatizacion-inteligente-de-procesos",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Medicina transfusional e inmunohematología",
-      "tipo": "Diplomado",
-      "duracion": "120 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "08/10/2026",
-      "fecha_inicio_iso": "2026-10-08",
-      "url": "https://educacionvirtual.javeriana.edu.co/medicinatransfusional",
       "inscripcion_continua": true
     },
     {
@@ -1491,22 +1421,14 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Orientación profesional",
-      "tipo": "Curso",
-      "duracion": "15 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "07/11/2026",
-      "fecha_inicio_iso": "2026-11-07",
-      "url": "https://educacionvirtual.javeriana.edu.co/orientacionprofesional"
-    },
-    {
       "titulo": "CALMA Mente en Calma ·  Cuerpo en Calma",
       "tipo": "Taller",
       "duracion": "4 Horas",
       "nivel": "Básico",
       "fecha_inicio": "07/11/2026",
       "fecha_inicio_iso": "2026-11-07",
-      "url": "https://educacionvirtual.javeriana.edu.co/calma-mente-en-calma-·-cuerpo-en-calma"
+      "url": "https://educacionvirtual.javeriana.edu.co/calma-mente-en-calma-·-cuerpo-en-calma",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Accesos Vasculares Seguros Guiados por Ultrasonografia",
@@ -1515,7 +1437,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "07/11/2026",
       "fecha_inicio_iso": "2026-11-07",
-      "url": "https://educacionvirtual.javeriana.edu.co/accesos-vasculares-seguros-guiados-por-ultrasonografia"
+      "url": "https://educacionvirtual.javeriana.edu.co/accesos-vasculares-seguros-guiados-por-ultrasonografia",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Expresión oral y manejo de públicos",
@@ -1977,6 +1900,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/fortalecimiento-de-habilidades-de-liderazgo-en-mujeres"
     }
   ],
-  "updated_at": "2026-11-07",
+  "updated_at": "2026-11-08",
   "source": "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"
 }
