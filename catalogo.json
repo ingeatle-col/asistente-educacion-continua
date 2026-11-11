@@ -31,16 +31,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Arquitectura del Paisaje",
-      "tipo": "Diplomado",
-      "duracion": "100 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "01/09/2026",
-      "fecha_inicio_iso": "2026-09-01",
-      "url": "https://educacionvirtual.javeriana.edu.co/arquitectura-del-paisaje",
-      "inscripcion_continua": true
-    },
-    {
       "titulo": "Indicadores de Gestión en Comunicación y Datos para Estrategias de Comunicación",
       "tipo": "Curso",
       "duracion": "24 Horas",
@@ -88,46 +78,6 @@
       "fecha_inicio": "08/09/2026",
       "fecha_inicio_iso": "2026-09-08",
       "url": "https://educacionvirtual.javeriana.edu.co/regulacion-mercado-y-transicion-energetica-del-sector-electrico-colombiano",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Preparación Renta Para Personas Naturales",
-      "tipo": "Curso",
-      "duracion": "18 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "08/09/2026",
-      "fecha_inicio_iso": "2026-09-08",
-      "url": "https://educacionvirtual.javeriana.edu.co/preparacion-personas-naturales",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Compliance",
-      "tipo": "Diplomado",
-      "duracion": "120 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "10/09/2026",
-      "fecha_inicio_iso": "2026-09-10",
-      "url": "https://educacionvirtual.javeriana.edu.co/compliance",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Comercio Exterior, Derecho Aduanero y Emprendimiento",
-      "tipo": "Diplomado",
-      "duracion": "120 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "10/09/2026",
-      "fecha_inicio_iso": "2026-09-10",
-      "url": "https://educacionvirtual.javeriana.edu.co/comercio-exterior-derecho-aduanero-y-emprendimiento",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Régimen tributario Colombiano: Teoría y práctica",
-      "tipo": "Diplomado",
-      "duracion": "120 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "10/09/2026",
-      "fecha_inicio_iso": "2026-09-10",
-      "url": "https://educacionvirtual.javeriana.edu.co/regimen-tributario-colombiano",
       "inscripcion_continua": true
     },
     {
@@ -258,16 +208,6 @@
       "fecha_inicio": "21/09/2026",
       "fecha_inicio_iso": "2026-09-21",
       "url": "https://educacionvirtual.javeriana.edu.co/educacion-inclusiva",
-      "inscripcion_continua": true
-    },
-    {
-      "titulo": "Enfermedad Periodontal y Peri-implantar: Clasificación y Abordaje Clínico",
-      "tipo": "Curso",
-      "duracion": "16 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "21/09/2026",
-      "fecha_inicio_iso": "2026-09-21",
-      "url": "https://educacionvirtual.javeriana.edu.co/enfermedad-periodontal-y-periimplantar-clasificacion",
       "inscripcion_continua": true
     },
     {
@@ -1467,7 +1407,8 @@
       "nivel": "Básico",
       "fecha_inicio": "10/11/2026",
       "fecha_inicio_iso": "2026-11-10",
-      "url": "https://educacionvirtual.javeriana.edu.co/stage-manager-produccion-y-operacion-de-eventos-en-vivo"
+      "url": "https://educacionvirtual.javeriana.edu.co/stage-manager-produccion-y-operacion-de-eventos-en-vivo",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Seguridad Social en Salud",
@@ -1476,7 +1417,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "10/11/2026",
       "fecha_inicio_iso": "2026-11-10",
-      "url": "https://educacionvirtual.javeriana.edu.co/seguridad-social-en-salud"
+      "url": "https://educacionvirtual.javeriana.edu.co/seguridad-social-en-salud",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Lengua de Señas Colombiana (LSC)",
@@ -1485,7 +1427,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "10/11/2026",
       "fecha_inicio_iso": "2026-11-10",
-      "url": "https://educacionvirtual.javeriana.edu.co/lengua-de-senas-colombiana-lsc"
+      "url": "https://educacionvirtual.javeriana.edu.co/lengua-de-senas-colombiana-lsc",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Monitoreo de la restauración ecológica",
@@ -1494,7 +1437,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "10/11/2026",
       "fecha_inicio_iso": "2026-11-10",
-      "url": "https://educacionvirtual.javeriana.edu.co/monitoreo-de-la-restauracion-ecologica"
+      "url": "https://educacionvirtual.javeriana.edu.co/monitoreo-de-la-restauracion-ecologica",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Excel Avanzado y Productividad Aumentada con IA",
@@ -1503,7 +1447,8 @@
       "nivel": "Avanzado",
       "fecha_inicio": "10/11/2026",
       "fecha_inicio_iso": "2026-11-10",
-      "url": "https://educacionvirtual.javeriana.edu.co/excel-avanzado-y-productividad-aumentada-con-ia"
+      "url": "https://educacionvirtual.javeriana.edu.co/excel-avanzado-y-productividad-aumentada-con-ia",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Protección de Datos Personales: Habeas Data",
@@ -1512,7 +1457,8 @@
       "nivel": "Intermedio",
       "fecha_inicio": "10/11/2026",
       "fecha_inicio_iso": "2026-11-10",
-      "url": "https://educacionvirtual.javeriana.edu.co/habeas-data"
+      "url": "https://educacionvirtual.javeriana.edu.co/habeas-data",
+      "inscripcion_continua": true
     },
     {
       "titulo": "Supervisión técnica independiente de obras en edificaciones - Alianza con Camacol Caldas",
@@ -1666,6 +1612,15 @@
       "fecha_inicio": "23/11/2026",
       "fecha_inicio_iso": "2026-11-23",
       "url": "https://educacionvirtual.javeriana.edu.co/xxiii-congreso-latinoamericano-de-investigacion-operativa-vi-congreso-colombiano-de-investigacion-operativa"
+    },
+    {
+      "titulo": "Liderando la nueva era del servicio al cliente: contact center, WhatsApp e IA aplicada",
+      "tipo": "Curso",
+      "duracion": "16 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "24/11/2026",
+      "fecha_inicio_iso": "2026-11-24",
+      "url": "https://educacionvirtual.javeriana.edu.co/liderando-la-nueva-era-del-servicio-al-cliente-contact-center-whatsapp-e-ia-aplicada"
     },
     {
       "titulo": "Curso y taller práctico de marketing legal",
@@ -1902,6 +1857,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/fortalecimiento-de-habilidades-de-liderazgo-en-mujeres"
     }
   ],
-  "updated_at": "2026-11-10",
+  "updated_at": "2026-11-11",
   "source": "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"
 }
