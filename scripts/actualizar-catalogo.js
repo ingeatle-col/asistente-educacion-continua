@@ -2,9 +2,8 @@
 // extrae TODOS los programas listados (están completos en el DOM, no hay
 // que paginar), se queda solo con los que tienen fecha de apertura futura
 // (o de hoy) definida, y escribe catalogo.json en la raíz del proyecto.
-// Además revisa la página de cada programa con fecha ya pasada: si dice que
-// tiene inscripción continua (p. ej. "la fecha de inicio dependerá del mínimo
-// número de inscritos"), lo incluye marcado con inscripcion_continua: true.
+// Los programas con fecha ya pasada se descartan. Solo las páginas listadas
+// a mano en URLS_ADICIONALES se revisan como posible inscripción continua.
 //
 // Corre dentro de GitHub Actions cada noche (ver .github/workflows/actualizar-catalogo.yml).
 
@@ -108,9 +107,16 @@ function parseFechaDDMMYYYY(fecha) {
   const MAX_REVISIONES = 150;
   const haceUnAnio = new Date(hoy); haceUnAnio.setFullYear(hoy.getFullYear() - 1);
 
+  // IMPORTANTE: ya NO se revisan todos los programas con fecha pasada.
+  // La frase "la apertura dependerá del mínimo de inscritos" es una nota
+  // estándar que aparece en casi todas las páginas de la Javeriana, así que
+  // marcaba como "inscripción continua" programas que ya iniciaron
+  // (p. ej. 146 de 190 en nov-2026). Solo se tratan como inscripción
+  // continua las páginas listadas a mano en URLS_ADICIONALES.
+  const REVISAR_TODOS_LOS_VENCIDOS = false;
   const porRevisar = [];
   const yaRevisadas = new Set(vistos);
-  for (const p of crudos) {
+  for (const p of REVISAR_TODOS_LOS_VENCIDOS ? crudos : []) {
     if (!p.titulo || !p.url) continue;
     const url = p.url.startsWith("http") ? p.url : "https://educacionvirtual.javeriana.edu.co" + p.url;
     const fecha = parseFechaDDMMYYYY(p.fecha_inicio);
