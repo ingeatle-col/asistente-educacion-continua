@@ -209,15 +209,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/entrenamiento-prueba-saber-11"
     },
     {
-      "titulo": "Medicina transfusional e inmunohematología",
-      "tipo": "Diplomado",
-      "duracion": "120 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "14/01/2027",
-      "fecha_inicio_iso": "2027-01-14",
-      "url": "https://educacionvirtual.javeriana.edu.co/medicina-transfusional-e-inmunohematologia"
-    },
-    {
       "titulo": "Docencia universitaria",
       "tipo": "Diplomado",
       "duracion": "100 Horas",
@@ -225,6 +216,15 @@
       "fecha_inicio": "14/01/2027",
       "fecha_inicio_iso": "2027-01-14",
       "url": "https://educacionvirtual.javeriana.edu.co/docencia-universitaria"
+    },
+    {
+      "titulo": "Medicina transfusional e inmunohematología",
+      "tipo": "Diplomado",
+      "duracion": "120 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "14/01/2027",
+      "fecha_inicio_iso": "2027-01-14",
+      "url": "https://educacionvirtual.javeriana.edu.co/medicina-transfusional-e-inmunohematologia"
     },
     {
       "titulo": "People's Analytics: Analítica de datos en gestión humana",
@@ -254,15 +254,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/secop"
     },
     {
-      "titulo": "Categorías analíticas para estudiarlas migraciones",
-      "tipo": "Diplomado",
-      "duracion": "144 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "25/01/2027",
-      "fecha_inicio_iso": "2027-01-25",
-      "url": "https://educacionvirtual.javeriana.edu.co/categorias-analiticas-estudiar-migraciones"
-    },
-    {
       "titulo": "Migraciones Contemporáneas: hacia la construcción de un campo interdisciplinario de estudio",
       "tipo": "Diplomado",
       "duracion": "144 Horas",
@@ -272,13 +263,22 @@
       "url": "https://educacionvirtual.javeriana.edu.co/migraciones-contemporaneas"
     },
     {
-      "titulo": "Neuromarketing y branding para emprendedores: Desbloquea tu potencial empresarial",
+      "titulo": "Categorías analíticas para estudiarlas migraciones",
+      "tipo": "Diplomado",
+      "duracion": "144 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "25/01/2027",
+      "fecha_inicio_iso": "2027-01-25",
+      "url": "https://educacionvirtual.javeriana.edu.co/categorias-analiticas-estudiar-migraciones"
+    },
+    {
+      "titulo": "Democracia, valores y cultura",
       "tipo": "Curso",
       "duracion": "32 Horas",
       "nivel": "Intermedio",
       "fecha_inicio": "26/01/2027",
       "fecha_inicio_iso": "2027-01-26",
-      "url": "https://educacionvirtual.javeriana.edu.co/neuromarketing-y-branding"
+      "url": "https://educacionvirtual.javeriana.edu.co/democracia-valores-y-cultura"
     },
     {
       "titulo": "Preparación para la Certificación Internacional PMP® del Project Management Institute PMI®",
@@ -290,6 +290,15 @@
       "url": "https://educacionvirtual.javeriana.edu.co/preparacion-certificacion-internacional-pmp"
     },
     {
+      "titulo": "Neuromarketing y branding para emprendedores: Desbloquea tu potencial empresarial",
+      "tipo": "Curso",
+      "duracion": "32 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "26/01/2027",
+      "fecha_inicio_iso": "2027-01-26",
+      "url": "https://educacionvirtual.javeriana.edu.co/neuromarketing-y-branding"
+    },
+    {
       "titulo": "Técnicas del juicio oral y sistema penal acusatorio",
       "tipo": "Curso",
       "duracion": "20 Horas",
@@ -297,6 +306,24 @@
       "fecha_inicio": "27/01/2027",
       "fecha_inicio_iso": "2027-01-27",
       "url": "https://educacionvirtual.javeriana.edu.co/tecnicas-juicio-oral-sistema-penal-acusatorio"
+    },
+    {
+      "titulo": "Inteligencia Artificial en Odontología",
+      "tipo": "Curso",
+      "duracion": "30 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "28/01/2027",
+      "fecha_inicio_iso": "2027-01-28",
+      "url": "https://educacionvirtual.javeriana.edu.co/inteligencia-artificial-en-odontologia"
+    },
+    {
+      "titulo": "Workshop: Audio y Música + IA",
+      "tipo": "Curso",
+      "duracion": "5 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "29/01/2027",
+      "fecha_inicio_iso": "2027-01-29",
+      "url": "https://educacionvirtual.javeriana.edu.co/workshop-audio-y-música-ia"
     },
     {
       "titulo": "Terapias Artísticas y Educación",
@@ -434,6 +461,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/fortalecimiento-de-habilidades-de-liderazgo-en-mujeres"
     }
   ],
-  "updated_at": "2026-11-13",
+  "updated_at": "2026-11-14",
   "source": "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"
 }
