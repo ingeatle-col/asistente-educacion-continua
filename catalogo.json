@@ -11,15 +11,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Inserción de Implante Subdérmico y Dispositivo Intrauterino (DIU)",
-      "tipo": "Curso",
-      "duracion": "6 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "14/11/2026",
-      "fecha_inicio_iso": "2026-11-14",
-      "url": "https://educacionvirtual.javeriana.edu.co/insercion-implante-subdermico"
-    },
-    {
       "titulo": "Cromatografía líquida de alta eficiencia (HPLC) y de gases (GC)",
       "tipo": "Curso",
       "duracion": "38 Horas",
@@ -461,6 +452,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/fortalecimiento-de-habilidades-de-liderazgo-en-mujeres"
     }
   ],
-  "updated_at": "2026-11-14",
+  "updated_at": "2026-11-15",
   "source": "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"
 }
