@@ -11,15 +11,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Cromatografía líquida de alta eficiencia (HPLC) y de gases (GC)",
-      "tipo": "Curso",
-      "duracion": "38 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "16/11/2026",
-      "fecha_inicio_iso": "2026-11-16",
-      "url": "https://educacionvirtual.javeriana.edu.co/cromatografia-liquida"
-    },
-    {
       "titulo": "Ventas con WhatsApp, Inteligencia Artificial y Automatización",
       "tipo": "Curso",
       "duracion": "16 Horas",
@@ -452,6 +443,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/fortalecimiento-de-habilidades-de-liderazgo-en-mujeres"
     }
   ],
-  "updated_at": "2026-11-16",
+  "updated_at": "2026-11-17",
   "source": "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"
 }
