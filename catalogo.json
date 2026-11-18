@@ -11,60 +11,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Ventas con WhatsApp, Inteligencia Artificial y Automatización",
-      "tipo": "Curso",
-      "duracion": "16 Horas",
-      "nivel": "Básico",
-      "fecha_inicio": "17/11/2026",
-      "fecha_inicio_iso": "2026-11-17",
-      "url": "https://educacionvirtual.javeriana.edu.co/ventas-con-whatsapp-inteligencia-artificial-y-automatizacion"
-    },
-    {
-      "titulo": "Diseñar con IA: arquitectura e interiorismo del futuro",
-      "tipo": "Curso",
-      "duracion": "30 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "17/11/2026",
-      "fecha_inicio_iso": "2026-11-17",
-      "url": "https://educacionvirtual.javeriana.edu.co/diseñar-con-ia-arquitectura-e-interiorismo-del-futuro"
-    },
-    {
-      "titulo": "Lidera tu Marca Profesional: Estrategias de Posicionamiento y LinkedIn para Generar Oportunidades.",
-      "tipo": "Curso",
-      "duracion": "18 Horas",
-      "nivel": "Básico",
-      "fecha_inicio": "17/11/2026",
-      "fecha_inicio_iso": "2026-11-17",
-      "url": "https://educacionvirtual.javeriana.edu.co/lidera-tu-marca-profesional-estrategias-de-posicionamiento-y-linkedin-para-generar-oportunidades"
-    },
-    {
-      "titulo": "Inteligencia Artificial para Abogados - Cesión, criterio y custodia.",
-      "tipo": "Curso",
-      "duracion": "20 Horas",
-      "nivel": "Intermedio",
-      "fecha_inicio": "17/11/2026",
-      "fecha_inicio_iso": "2026-11-17",
-      "url": "https://educacionvirtual.javeriana.edu.co/inteligencia-artificial-para-abogados-cesion-criterio-y-custodia"
-    },
-    {
-      "titulo": "Seguridad social en pensiones",
-      "tipo": "Curso",
-      "duracion": "10 Horas",
-      "nivel": "Básico",
-      "fecha_inicio": "17/11/2026",
-      "fecha_inicio_iso": "2026-11-17",
-      "url": "https://educacionvirtual.javeriana.edu.co/seguridad-social-en-pensiones"
-    },
-    {
-      "titulo": "Estrategia Digital con IA y Redes Sociales",
-      "tipo": "Curso",
-      "duracion": "30 Horas",
-      "nivel": "Básico",
-      "fecha_inicio": "17/11/2026",
-      "fecha_inicio_iso": "2026-11-17",
-      "url": "https://educacionvirtual.javeriana.edu.co/estrategia-digital-con-ia-y-redes-sociales"
-    },
-    {
       "titulo": "Filosofía del poder y la violencia",
       "tipo": "Curso",
       "duracion": "12 Horas",
@@ -90,6 +36,15 @@
       "fecha_inicio": "23/11/2026",
       "fecha_inicio_iso": "2026-11-23",
       "url": "https://educacionvirtual.javeriana.edu.co/xxiii-congreso-latinoamericano-de-investigacion-operativa-vi-congreso-colombiano-de-investigacion-operativa"
+    },
+    {
+      "titulo": "Inteligencia Artificial para Abogados - Cesión, criterio y custodia.",
+      "tipo": "Curso",
+      "duracion": "20 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "24/11/2026",
+      "fecha_inicio_iso": "2026-11-24",
+      "url": "https://educacionvirtual.javeriana.edu.co/inteligencia-artificial-para-abogados-cesion-criterio-y-custodia"
     },
     {
       "titulo": "Liderando la nueva era del servicio al cliente: contact center, WhatsApp e IA aplicada",
@@ -209,6 +164,24 @@
       "url": "https://educacionvirtual.javeriana.edu.co/medicina-transfusional-e-inmunohematologia"
     },
     {
+      "titulo": "Excel Avanzado y Productividad Aumentada con IA",
+      "tipo": "Curso",
+      "duracion": "40 Horas",
+      "nivel": "Avanzado",
+      "fecha_inicio": "19/01/2027",
+      "fecha_inicio_iso": "2027-01-19",
+      "url": "https://educacionvirtual.javeriana.edu.co/excel-avanzado-y-productividad-aumentada-con-ia"
+    },
+    {
+      "titulo": "Stage manager: producción y operación de eventos en vivo",
+      "tipo": "Curso",
+      "duracion": "30 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "19/01/2027",
+      "fecha_inicio_iso": "2027-01-19",
+      "url": "https://educacionvirtual.javeriana.edu.co/stage-manager-produccion-y-operacion-de-eventos-en-vivo"
+    },
+    {
       "titulo": "People's Analytics: Analítica de datos en gestión humana",
       "tipo": "Curso",
       "duracion": "12 Horas",
@@ -225,6 +198,24 @@
       "fecha_inicio": "19/01/2027",
       "fecha_inicio_iso": "2027-01-19",
       "url": "https://educacionvirtual.javeriana.edu.co/ia-aplicada-al-design-thinking"
+    },
+    {
+      "titulo": "¿Cómo calcular el retorno de la inversión (ROI) de su estrategia de comunicación?",
+      "tipo": "Curso",
+      "duracion": "16 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "20/01/2027",
+      "fecha_inicio_iso": "2027-01-20",
+      "url": "https://educacionvirtual.javeriana.edu.co/como-calcular-el-retorno-de-la-inversion-roi-de-su-estrategia-de-comunicacion"
+    },
+    {
+      "titulo": "Mapeando la Salud Pública: Introducción a los SIG con QGIS",
+      "tipo": "Curso",
+      "duracion": "10 Horas",
+      "nivel": "Básico",
+      "fecha_inicio": "21/01/2027",
+      "fecha_inicio_iso": "2027-01-21",
+      "url": "https://educacionvirtual.javeriana.edu.co/mapeando-la-salud-publica-introducción-a-los-sig-con-qgis"
     },
     {
       "titulo": "SECOP II",
@@ -252,6 +243,15 @@
       "fecha_inicio": "25/01/2027",
       "fecha_inicio_iso": "2027-01-25",
       "url": "https://educacionvirtual.javeriana.edu.co/categorias-analiticas-estudiar-migraciones"
+    },
+    {
+      "titulo": "Investigación Digital, Informática Forense y  Respuesta a Incidentes (DFIR)",
+      "tipo": "Diplomado",
+      "duracion": "116 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "26/01/2027",
+      "fecha_inicio_iso": "2027-01-26",
+      "url": "https://educacionvirtual.javeriana.edu.co/investigacion-digital-informatica-forense-dfir"
     },
     {
       "titulo": "Democracia, valores y cultura",
@@ -285,8 +285,8 @@
       "tipo": "Curso",
       "duracion": "20 Horas",
       "nivel": "Intermedio",
-      "fecha_inicio": "27/01/2027",
-      "fecha_inicio_iso": "2027-01-27",
+      "fecha_inicio": "28/01/2027",
+      "fecha_inicio_iso": "2027-01-28",
       "url": "https://educacionvirtual.javeriana.edu.co/tecnicas-juicio-oral-sistema-penal-acusatorio"
     },
     {
@@ -306,6 +306,15 @@
       "fecha_inicio": "29/01/2027",
       "fecha_inicio_iso": "2027-01-29",
       "url": "https://educacionvirtual.javeriana.edu.co/workshop-audio-y-música-ia"
+    },
+    {
+      "titulo": "Teoría del cine y su contenido simbólico y tradicional",
+      "tipo": "Curso",
+      "duracion": "12 Horas",
+      "nivel": "Intermedio",
+      "fecha_inicio": "30/01/2027",
+      "fecha_inicio_iso": "2027-01-30",
+      "url": "https://educacionvirtual.javeriana.edu.co/teoria-del-cine-y-su-contenido-simbolico-y-tradicional"
     },
     {
       "titulo": "Terapias Artísticas y Educación",
@@ -443,6 +452,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/fortalecimiento-de-habilidades-de-liderazgo-en-mujeres"
     }
   ],
-  "updated_at": "2026-11-17",
+  "updated_at": "2026-11-18",
   "source": "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"
 }
