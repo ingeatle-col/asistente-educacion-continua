@@ -11,13 +11,13 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Filosofía del poder y la violencia",
+      "titulo": "Lidera tu Marca Profesional: Estrategias de Posicionamiento y LinkedIn para Generar Oportunidades.",
       "tipo": "Curso",
-      "duracion": "12 Horas",
+      "duracion": "18 Horas",
       "nivel": "Básico",
-      "fecha_inicio": "18/11/2026",
-      "fecha_inicio_iso": "2026-11-18",
-      "url": "https://educacionvirtual.javeriana.edu.co/filosofiadelpoderylaviolencia"
+      "fecha_inicio": "19/11/2026",
+      "fecha_inicio_iso": "2026-11-19",
+      "url": "https://educacionvirtual.javeriana.edu.co/lidera-tu-marca-profesional-estrategias-de-posicionamiento-y-linkedin-para-generar-oportunidades"
     },
     {
       "titulo": "Orientación Toma de Decisiónes Vocacional",
@@ -452,6 +452,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/fortalecimiento-de-habilidades-de-liderazgo-en-mujeres"
     }
   ],
-  "updated_at": "2026-11-18",
+  "updated_at": "2026-11-19",
   "source": "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"
 }
