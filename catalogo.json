@@ -11,15 +11,6 @@
       "inscripcion_continua": true
     },
     {
-      "titulo": "Lidera tu Marca Profesional: Estrategias de Posicionamiento y LinkedIn para Generar Oportunidades.",
-      "tipo": "Curso",
-      "duracion": "18 Horas",
-      "nivel": "Básico",
-      "fecha_inicio": "19/11/2026",
-      "fecha_inicio_iso": "2026-11-19",
-      "url": "https://educacionvirtual.javeriana.edu.co/lidera-tu-marca-profesional-estrategias-de-posicionamiento-y-linkedin-para-generar-oportunidades"
-    },
-    {
       "titulo": "Orientación Toma de Decisiónes Vocacional",
       "tipo": "Curso",
       "duracion": "15 Horas",
@@ -452,6 +443,6 @@
       "url": "https://educacionvirtual.javeriana.edu.co/fortalecimiento-de-habilidades-de-liderazgo-en-mujeres"
     }
   ],
-  "updated_at": "2026-11-19",
+  "updated_at": "2026-11-20",
   "source": "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"
 }
